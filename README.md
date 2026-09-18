@@ -18,6 +18,16 @@ Numbered aphorisms with a commentary, in the manner of the Giles translation. No
 | One file | [The whole book](en/the-whole-book.md) | [全书单页](zh/the-whole-book.md) |
 | Prologue | [Before the Temple Count](en/prologue.md) | [序：庙算之前](zh/prologue.md) |
 
+### Or download the typeset edition
+
+| | PDF | EPUB |
+|---|---|---|
+| English | [The Art of Options War.pdf](https://pub-aa4f5218b3ce4b3abd876680f0ff5545.r2.dev/books/art-of-options-war/The-Art-of-Options-War.pdf) | [.epub](https://pub-aa4f5218b3ce4b3abd876680f0ff5545.r2.dev/books/art-of-options-war/The-Art-of-Options-War.epub) |
+| 中文 | [期权兵法.pdf](https://pub-aa4f5218b3ce4b3abd876680f0ff5545.r2.dev/books/art-of-options-war/%E6%9C%9F%E6%9D%83%E5%85%B5%E6%B3%95.pdf) | [.epub](https://pub-aa4f5218b3ce4b3abd876680f0ff5545.r2.dev/books/art-of-options-war/%E6%9C%9F%E6%9D%83%E5%85%B5%E6%B3%95.epub) |
+
+Built from this same text, so the file and the repository cannot disagree. No
+email required for any of it.
+
 Both editions were written by hand. The Chinese is not a machine translation of the English, and the English is not a translation of the Chinese — they are the same book written twice.
 
 ## The thirteen chapters
