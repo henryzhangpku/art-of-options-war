@@ -10,6 +10,8 @@ Selling options is the same problem in a different uniform. The seller is paid t
 
 Numbered aphorisms with a commentary, in the manner of the Giles translation. No forecasts, no signals, no performance claims.
 
+The companion book, [The Options Underwriter · 期权承保](https://github.com/henryzhangpku/options-underwriter), reads the same trade as running an insurance company — policy, price, reserves, claims, catastrophe. Same format, different ideas: war here, insurance there. Both are free.
+
 ## Read it
 
 | | English | 中文 |
@@ -56,6 +58,7 @@ Henry Zhang · 张恒 — [officialhenryzhang.com](https://www.officialhenryzhan
 
 The ideas the commentary rests on are the ones I actually trade: size over frequency, one side first on a trend read, hedge into a condor only when hurt, cut the short leg and keep the wing.
 
+- **Also by the author** — [The Options Underwriter · 期权承保](https://github.com/henryzhangpku/options-underwriter), the same trade read as underwriting: thirteen chapters on the policy, the price, the book, the claims, the reserves and the catastrophe.
 - **This book, on the reading app** — [Henry Zhang Books on the App Store](https://apps.apple.com/app/id6792229566), where it reads as a book with the bilingual toggle and the audiobook narration.
 - **Notes and letters** — [henryzhang.substack.com](https://henryzhang.substack.com/)
 
