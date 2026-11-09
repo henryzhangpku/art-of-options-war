@@ -2,6 +2,8 @@
 
 *Part IV: Ground and Fire*
 
+## The Seller
+
 1. There are five ways of attacking with fire. The first is to burn soldiers in their camp; the second is to burn stores; the third is to burn baggage trains; the fourth is to burn arsenals and magazines; the fifth is to hurl dropping fire amongst the enemy.
 
 2. Volatility is fire. There are five ways the fire reaches the seller, and he must know each by its smoke.
@@ -30,6 +32,18 @@
 
 14. Hence the enlightened ruler is heedful, and the good general full of caution. This is the way to keep an account at peace and a sequence intact.
 
+## The Buyer
+
+15. Fire burns the seller and warms the buyer. Volatility is the buyer's ally, but only the volatility he paid for before it arrived.
+
+16. The buyer who buys during the fire pays the fire's price. Options are dearest while the smoke is rising, and their value falls the moment it clears.
+
+17. Dropping fire — the news in the middle of the trade — is the buyer's one free gift. He may receive it; he must not pay for it in advance at full price.
+
+18. The buyer's own fire is the crush: the event comes, moves the market a little, and leaves the option worth less than before. He was right about the direction and paid for a larger move than came.
+
+19. An account halved needs a double. This is the buyer's law too: twenty debits lost make a smaller base for the twenty-first, and the twenty-first must win larger to repair it.
+
 ## Commentary
 
 The chapter on fire is the general's chapter on the weapon that does not care about skill, and for the seller that weapon is volatility. It arrives as a gap that puts the line behind the price before the first order can be placed; as a spike that makes the hedge unaffordable in the exact hour it becomes necessary; as a headline in the middle of a working trade. None of these can be predicted. All of them can be survived, and survival is arranged in advance: the size that makes a gap an ordinary expense, the wing that is always present because the spread always contains one, the reserve that keeps the broker's hand off the position.
@@ -37,6 +51,10 @@ The chapter on fire is the general's chapter on the weapon that does not care ab
 The two fires the seller lights himself deserve naming. The margin call is size. The starving fire — the chop that charges a cut, then a re-entry, then a cut — is frequency, the chapter on manoeuvring returned as a slow burn. Neither is the market's fault, and both are ended by the same two rules that were already on the page: size so that the maximum loss is boring, and give the day a structural ceiling on how many times it can open.
 
 The last verses are the arithmetic of ruin, stated by a general who had seen kingdoms end. Minus fifty needs plus one hundred. Minus eighty needs plus four hundred. This is not a warning about markets; it is what multiplication does to a sequence with a hole in it. It is also why the stop — the subject of nearly every chapter — is the only rule in the book with no exceptions.
+
+For the buyer, fire is the reason for the trade. A long option is a bet that volatility will arrive, and its value is a claim on the fire. But the claim must be bought before the smoke, at a price set by people who do not expect a fire. A buyer who pays during the spike buys a claim the market has already marked up, and the crush that follows the event — volatility falling as soon as the news is known — can take his profit even when the move went his way.
+
+So the same two rules hold. Size so that losing the whole debit is boring, and give the day a ceiling on how many debits it can spend. The fire that ruins a buyer is not one catastrophe. It is the slow burn of paying, again and again, for fires that do not come.
 
 ---
 

@@ -2,6 +2,8 @@
 
 *Part III: The March*
 
+## The Seller
+
 1. There is nothing harder than manoeuvring. The difficulty consists in turning the devious into the direct, and misfortune into gain.
 
 2. The seller's manoeuvre is the hedge: the devious route by which a losing morning is turned into a flat afternoon. It is slow, it is unglamorous, and it is the whole of the skill.
@@ -28,6 +30,20 @@
 
 13. Do not pursue an enemy who simulates flight. Do not chase a reversal that has not confirmed. Do not attack soldiers whose temper is keen; do not sell into a panic that is still accelerating. Leave a way of escape to a surrounded enemy; leave a wing in every spread.
 
+## The Buyer
+
+14. The buyer's manoeuvre is patience before the catalyst and speed after it.
+
+15. If the buyer marches in haste — buying every flicker of movement — he arrives at the real move with his debits spent and his nerve gone.
+
+16. The buyer's baggage train is the cash he did not spend on the last ten ideas. Without it the eleventh, which is the right one, must be passed by.
+
+17. In raiding, divide your spoils. When the long option has paid, sell part of it. The buyer who waits for the last tenth of a move is paid nothing on the day it reverses.
+
+18. Do not stack the same direction in two costumes. A call bought and a put sold on the same name are one bet; so is a call bought beside stock already owned. Count the net direction.
+
+19. Do not pursue an enemy who simulates flight. Do not buy the reversal that has not confirmed. Do not buy the option after the gap; buy before it, or not at all.
+
 ## Commentary
 
 Manoeuvring is the chapter about frequency, and frequency is a risk dial that most traders do not know they are turning. The old general loses his baggage by marching too fast; the seller loses his fourth quarter by trading too often. Every additional entry in a day is a levy on the reserve that was supposed to let an open position breathe. By noon the fast marcher is full size in one direction with nothing left for the hedge, and the first ordinary fluctuation closes him out.
@@ -35,6 +51,10 @@ Manoeuvring is the chapter about frequency, and frequency is a risk dial that mo
 Two rules in this chapter are absolute. The first is never to stack on the same direction. It is easy to believe that a second credit spread, sold with the trend, is "pairing" with the wing that survived a cut — but a long wing and a spread sold in the same direction are the same bet, and pairing them is doubling on the side that has just run through a strike. Read a book by its net exposure, not its leg count. The second is the ceiling: the position's own state must limit how many times it can open, and "usually stops re-entering" is not a rule.
 
 Rapid as the wind is about one action only: the cut. Everything else in this trade is meant to be slow — the temple count, the line chosen while the tape is calm, the hedge sold only when hurt. Speed kept for the exit, and nowhere else, is what separates manoeuvre from panic.
+
+For the buyer the danger of the march is the same and the cost is more visible. Every debit spent on a move that did not come is gone; it does not come back as a hedge or a re-entry. A buyer who trades often spends his reserve on noise, and the reserve is exactly what he needed on the day a real catalyst arrived with a real mispricing. For the seller, frequency is a risk dial. For the buyer, it is a bill.
+
+Rapid as the wind, for the buyer, is the taking of profit. A long option that has paid is now worth mostly volatility and time, and both leave quickly once the move is over. The buyer who sells part at once and lets the rest run on a stop has kept the spoils. The one who waits for the whole move has lent them back to the seller.
 
 ---
 

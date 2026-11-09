@@ -2,6 +2,8 @@
 
 *Part IV: Ground and Fire*
 
+## The Seller
+
 1. The art of war recognises nine varieties of ground. The seller's trade passes through nine, from the moment the line is chosen to the moment there is nothing left but the stop.
 
 2. Dispersive ground is the open, when a trader fights in his own territory: full of opinion, full of capital, and most likely to spend both at once. On dispersive ground, do not fight. Count, and place one quarter.
@@ -30,6 +32,18 @@
 
 14. At first, then, exhibit the coyness of a maiden, until the enemy gives you an opening; afterwards emulate the rapidity of a running hare, and it will be too late for the enemy to oppose you. Wait for the line to be offered at a price. Then cut, when cutting is due, faster than the tape can charge you for waiting.
 
+## The Buyer
+
+15. The buyer passes through the nine grounds too, and the one where he is most often lost is serious ground: deep in the trade, the catalyst not yet come, the option bleeding every day.
+
+16. On serious ground the seller gathers plunder; the buyer pays it. Let him know the daily cost before he enters, so that the bleeding is a number and not a fear.
+
+17. Difficult ground, for the buyer, is the move that starts and stalls. Keep steadily on the march only if the date has not passed.
+
+18. Hemmed-in ground, for the buyer, is the event that came and failed. Resort to no stratagem. Sell what remains.
+
+19. Desperate ground does not exist for the buyer. His maximum loss was paid on the first day. This is the buyer's one great advantage, and he loses it only by adding to a loser.
+
 ## Commentary
 
 The nine situations are read here as the nine stages of a single trade, and the reading holds surprisingly well. The open is dispersive ground — the trader is at home, fully armed, and the danger is that he spends everything on the first opinion. The middle of a working trade is serious ground, where the only instruction is to let the plunder come in: theta pays a seller who is not wrong, hour by hour, and the discipline is simply to do nothing. Difficult ground is the fluctuation, which every position passes through before it resolves; the fourth quarter is the reserve that lets it be endured.
@@ -37,6 +51,8 @@ The nine situations are read here as the nine stages of a single trade, and the 
 Hemmed-in and desperate ground are the two the seller must have already decided about. Hemmed-in is the broken line, and the answer is a stratagem chosen for the situation: a hedge into the other side if the move is young, a cut of the short leg if the move has already run. Desperate ground — the maximum loss — is where the old general says to fight, and the seller's fight is precise: buy back the short leg, keep the wing, and let the long option that the spread always contained ride the very move that broke the line. It is the difference between exiting a trade and letting the trade exit you.
 
 "Throw your soldiers into positions whence there is no escape" is the least intuitive line in the chapter and the most important. The seller does not set his stop on the tape, where every price argues with it. He sets it in the temple, before the order, where it is an arithmetic and not a feeling. When the market reaches it, there is nothing to decide, and the absence of a decision is the whole of the discipline.
+
+For the buyer the nine grounds lean the other way. Desperate ground, which the seller must have planned for, does not exist for him: the worst case was paid in full on the day he entered. His danger is the long middle — serious ground, where the option bleeds while the catalyst approaches, and difficult ground, where the move begins and stalls. The buyer who knows the daily rent in advance can endure both. The buyer who discovers it on the screen will either sell at the worst moment or buy more to lower his cost, and so build for himself the one ground he could never otherwise have reached.
 
 ---
 

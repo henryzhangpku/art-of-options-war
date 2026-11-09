@@ -22,7 +22,7 @@ The first three chapters are the count. What the campaign will be judged on, wha
 
 Chapters four to six are about shape. The old text says that the skilful fighter first makes himself invincible and then waits for the enemy to become vulnerable. Invincibility is a matter of defence and lies with you; vulnerability is a matter of the enemy and does not.
 
-For the premium seller, that is the entire trade. The defined-risk spread is the invincible position; the hedge into reversal is the response to the enemy's move; compounding is the force that a well-shaped position releases over time.
+For the premium seller, that is the entire trade. The defined-risk spread is the invincible position; the hedge into reversal is the response to the enemy's move; compounding is the force that a well-shaped position releases over time. For the buyer, the debit is the invincible position, because it is the whole risk paid in advance; the catalyst is the opening the enemy gives; and compounding is the arithmetic that punishes him for the gaps between rare wins.
 
 4. [The Unbeatable Position](chapter-04.md) — 《军形》
 5. [Force and the Four Quarters](chapter-05.md) — 《兵势》
@@ -42,7 +42,7 @@ In the market, the march is the trading day. Most accounts are not lost to one g
 
 The last four chapters are the hardest ground. Terrain that must not be fought on. The nine situations an army can find itself in, and what each demands. Fire, the weapon that destroys faster than any sword. And finally spies — because the general who knows wins before he moves.
 
-For the seller: the regimes to refuse, the stages of a trade from first entry to the desperate ground where only the stop remains, volatility as fire, and the journal as the only spy who has never lied to you.
+For the seller: the regimes to refuse, the stages of a trade from first entry to the desperate ground where only the stop remains, volatility as fire, and the journal as the only spy who has never lied to you. For the buyer: the grounds where rent is cheap and the ones where it is a trap, the long middle of a trade where the option bleeds, volatility as the fire he must buy before the smoke, and the same journal, which alone can count the losers beside the winner.
 
 10. [Terrain](chapter-10.md) — 《地形》
 11. [The Nine Situations](chapter-11.md) — 《九地》

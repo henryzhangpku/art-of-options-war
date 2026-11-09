@@ -2,6 +2,8 @@
 
 *Part I: The Count*
 
+## The Seller
+
 1. The trade is a matter of vital importance to the account. It is the ground of survival or ruin. It cannot be entered on a whim.
 
 2. Therefore, before the market opens, weigh the trade by five constants, and compare your side with the enemy's.
@@ -28,6 +30,22 @@
 
 13. The seller who counts once wins once. The seller who counts every morning is still here in the afternoon, and in the year after.
 
+## The Buyer
+
+14. The buyer counts in the same temple, by the same five constants, and finds them arranged against him.
+
+15. The Sky is his enemy. Every hour the move does not come, he pays. He cannot fight time; he can only choose how much of it to buy, and buy no more than the catalyst needs.
+
+16. The Ground, for the buyer, is distance: how far price must travel to reach his strike, and how far beyond it to pay him. A strike the market cannot reach before expiry is not cheap. It is a donation.
+
+17. The Commander who buys must be patient in the opposite direction from the seller: patient through many small losses, each of which looks like proof that he is wrong.
+
+18. The Method, for the buyer, is the debit: written, paid and final. He sizes so that losing the whole of it is a loss he would not mention at dinner.
+
+19. The Cause, for the buyer, is a mispricing with a date on it. If he buys because he feels a move coming, he is paying rent to a feeling.
+
+20. The buyer's temple count is five sentences, each sayable in one breath: the edge, the catalyst, the maximum loss, the time stop, and the win rate he needs to break even. A trade that cannot say all five is a hope trade.
+
 ## Commentary
 
 The old text begins with counting because the temple is the only place a battle can be lost without cost. For the option seller the temple count is one sentence, said out loud before the order: *this is a five-wide spread sold for one, the maximum loss is four, and the loss at which I cut is one.* If the sentence cannot be said, the trade cannot be taken.
@@ -35,6 +53,10 @@ The old text begins with counting because the temple is the only place a battle 
 Of the five constants, only the Sky is reliably yours. Time decays in one direction, and a seller who does not fight it is paid every hour he is not wrong. The Ground can be chosen but not controlled. The Method can be written and then ignored. And the Commander is where every account dies: not from being wrong about direction, which is ordinary, but from refusing to be wrong at a small size.
 
 The Cause is placed last because it is the quietest. A trader who needs to be right will hold a broken spread to prove a point. A trader who is paid to hold a line simply moves the line, or leaves the field. The rest of this book assumes the second man.
+
+The buyer reads the same five constants and finds the Sky reversed. Time decays in one direction, and he is on the wrong side of it; every quiet hour is charged to him. That does not make buying a mistake. It makes it a different trade, one whose count must name the date on which the move is due and the price at which that move is not already paid for. A buyer who cannot name a catalyst has bought time without a reason to use it.
+
+His temple sentence is the seller's, read from the other end of the ticket: *I pay one for a five-wide spread, the maximum loss is one, the maximum gain is four, and I need to be right one time in five to break even.* The arithmetic is the same arithmetic. What changes is which mistake is fatal. The seller dies of one large loss refused. The buyer dies of a thousand small ones accepted without a reason, or of one debit sized as if it could not go to zero.
 
 ---
 

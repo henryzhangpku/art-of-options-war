@@ -2,6 +2,8 @@
 
 *Part III: The March*
 
+## The Seller
+
 1. Camp in high places, facing the sun. Do not climb heights in order to fight. So much for mountain warfare.
 
 2. Sell your line on the high ground: beyond the wall where dealer hedging leans against price, on the side of the market that must climb to reach you. Do not sell into a climb to prove you can. So much for placing a strike.
@@ -28,6 +30,18 @@
 
 13. He who exercises no forethought but makes light of his opponents is sure to be captured by them.
 
+## The Buyer
+
+14. The buyer camps in the low places and waits for the sun. His ground is calm volatility that is about to stop being calm.
+
+15. The buyer reads the same signs as the seller and acts on the opposite ones. A pivot broken is the seller's warning and the buyer's invitation.
+
+16. When the ATR trail flips, the buyer may follow it: calls behind a market that has turned up, puts behind one that has turned down. Neither while it is deciding; deciding is where rent is paid for nothing.
+
+17. Volume dying into a quiet range is the sign of a coiled market. That is the buyer's high ground: the move nobody is paying for yet.
+
+18. A market that presses a level for an hour without breaking it is the seller's danger and the buyer's patience. He does not buy the press. He buys the break, small, with his stop at the level.
+
 ## Commentary
 
 The army on the march is the chapter about reading signs, and the seller's signs are structural. Direction is not read from a feeling or a headline but from the market's own pivots: whether the last swing low held or broke, whether the character of the swing has changed, whether a trailing stop that ratchets with volatility has flipped from one side of price to the other. This is the read that decides which side is sold. Bull sells puts. Bear sells calls. Undecided sells nothing and waits, which is also a position.
@@ -35,6 +49,10 @@ The army on the march is the chapter about reading signs, and the seller's signs
 High ground and river crossings have exact counterparts. The high ground is distance from price, placed beyond the level where dealer hedging leans — the wall that pins a rising market or the floor that catches a falling one. The river is a level just crossed, and the general's advice to get far from it is the seller's rule never to sell the strike the market has just broken through; it returns to test what it broke. The marsh is the chop between two levels, and no line inside it is defensible.
 
 The sign that matters most is the quiet one. A market pressing against your line without breaking it is not evidence the line holds; it is the enemy standing close at hand and remaining quiet, relying on the strength of his position. Vigilance here means having already decided what the cut price is, so that when the quiet ends you are executing a decision rather than making one.
+
+The buyer reads the same signs from the other bank of the river. The quiet market the seller treats as safety, the buyer treats as stored energy: realised volatility falling, volume drying up, a range narrowing toward a dated event. That is where options are cheapest, and where a buyer pays the least rent for the most possible movement.
+
+The signs of a turning trend are the same signs for both. When the structure breaks — the higher low lost, the trail flipped — the seller moves his line and the buyer takes his entry. Neither acts while the market is deciding. The seller is not paid there, and the buyer pays rent there for nothing.
 
 ---
 

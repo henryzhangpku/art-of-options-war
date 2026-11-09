@@ -7,9 +7,9 @@
 
 Two and a half thousand years ago a general wrote thirteen short chapters on how to win without being destroyed. He was not interested in glory. He was interested in the arithmetic of survival: which battles to fight, which to refuse, how to be paid by an enemy's mistakes instead of your own courage, and why the state that wins every battle can still lose the war.
 
-Selling options is the same problem in a different uniform. The seller is paid to hold a line. He does not need to know where the enemy will go, only where the enemy will not arrive in time. He wins most engagements and can be ruined by one. Every chapter that follows borrows the old general's structure — thirteen chapters, in his order, on his subjects — and reads it against a single instrument: the defined-risk credit spread, sold on the index, by a trader who intends to still be trading next year.
+Options are the same problem in a different uniform, and the uniform has two sides. The seller is paid to hold a line. He does not need to know where the enemy will go, only where the enemy will not arrive in time. He wins most engagements and can be ruined by one. The buyer pays for the right to be right. He loses most engagements, each one small and paid for in advance, and lives on the rare one that pays many times over. Every chapter that follows borrows the old general's structure — thirteen chapters, in his order, on his subjects — and reads it from both ends of a defined-risk ticket: first the seller of the credit spread, then the buyer of the option or the debit spread, each of whom intends to still be trading next year.
 
-This book is education, not advice. It contains no recommendations for you personally, no signals and no promises. Options can lose money faster than stock. A defined-risk spread cannot lose more than its width, but its width can still be more than you can afford, and a run of them can still end an account. Nothing here is a performance claim; where the text names a number, the number is arithmetic you can check on paper.
+This book is education, not advice. It contains no recommendations for you personally, no signals and no promises. Options can lose money faster than stock. A defined-risk spread cannot lose more than its width, and a long option cannot lose more than its debit, but either can still be more than you can afford, and a run of them can still end an account. Nothing here is a performance claim; where the text names a number, the number is arithmetic you can check on paper.
 
 Read one chapter a day. Then read them again, in the order the general chose, because the order is the argument: count before you fight, know what a campaign costs, win without needing to be right, make yourself unbeatable before you look for a chance, and — last — value information above every other weapon.
 
@@ -22,6 +22,8 @@ The first three chapters are the count. What the campaign will be judged on, wha
 
 
 ### 1. Counting in the Temple
+
+## The Seller
 
 1. The trade is a matter of vital importance to the account. It is the ground of survival or ruin. It cannot be entered on a whim.
 
@@ -49,6 +51,22 @@ The first three chapters are the count. What the campaign will be judged on, wha
 
 13. The seller who counts once wins once. The seller who counts every morning is still here in the afternoon, and in the year after.
 
+## The Buyer
+
+14. The buyer counts in the same temple, by the same five constants, and finds them arranged against him.
+
+15. The Sky is his enemy. Every hour the move does not come, he pays. He cannot fight time; he can only choose how much of it to buy, and buy no more than the catalyst needs.
+
+16. The Ground, for the buyer, is distance: how far price must travel to reach his strike, and how far beyond it to pay him. A strike the market cannot reach before expiry is not cheap. It is a donation.
+
+17. The Commander who buys must be patient in the opposite direction from the seller: patient through many small losses, each of which looks like proof that he is wrong.
+
+18. The Method, for the buyer, is the debit: written, paid and final. He sizes so that losing the whole of it is a loss he would not mention at dinner.
+
+19. The Cause, for the buyer, is a mispricing with a date on it. If he buys because he feels a move coming, he is paying rent to a feeling.
+
+20. The buyer's temple count is five sentences, each sayable in one breath: the edge, the catalyst, the maximum loss, the time stop, and the win rate he needs to break even. A trade that cannot say all five is a hope trade.
+
 ## Commentary
 
 The old text begins with counting because the temple is the only place a battle can be lost without cost. For the option seller the temple count is one sentence, said out loud before the order: *this is a five-wide spread sold for one, the maximum loss is four, and the loss at which I cut is one.* If the sentence cannot be said, the trade cannot be taken.
@@ -57,8 +75,14 @@ Of the five constants, only the Sky is reliably yours. Time decays in one direct
 
 The Cause is placed last because it is the quietest. A trader who needs to be right will hold a broken spread to prove a point. A trader who is paid to hold a line simply moves the line, or leaves the field. The rest of this book assumes the second man.
 
+The buyer reads the same five constants and finds the Sky reversed. Time decays in one direction, and he is on the wrong side of it; every quiet hour is charged to him. That does not make buying a mistake. It makes it a different trade, one whose count must name the date on which the move is due and the price at which that move is not already paid for. A buyer who cannot name a catalyst has bought time without a reason to use it.
+
+His temple sentence is the seller's, read from the other end of the ticket: *I pay one for a five-wide spread, the maximum loss is one, the maximum gain is four, and I need to be right one time in five to break even.* The arithmetic is the same arithmetic. What changes is which mistake is fatal. The seller dies of one large loss refused. The buyer dies of a thousand small ones accepted without a reason, or of one debit sized as if it could not go to zero.
+
 
 ### 2. The Cost of the Campaign
+
+## The Seller
 
 1. When you take the field, know what it costs to stay there.
 
@@ -82,6 +106,20 @@ The Cause is placed last because it is the quietest. A trader who needs to be ri
 
 11. Speed has never been the enemy of the seller. Only the slow exit is.
 
+## The Buyer
+
+12. The buyer pays the rent. Let him know it before he signs: the daily decay, multiplied by the days he expects to wait, is the price of his patience.
+
+13. For the buyer, the long siege is the debit held after the catalyst has passed. The event came, the move did not, and what remains is an option paying rent on a reason that has already expired.
+
+14. Therefore the buyer sets a time stop as the seller sets a price stop. When the date passes without the move, he leaves, and the cost is what is left of one debit, not the whole of it.
+
+15. The buyer forages on the seller's comfort: the quiet market where protection is priced as if nothing will ever happen again. That is the only field where rent is cheap.
+
+16. One move paid for in advance at a fair price is worth a hundred guessed at after the news, at the news's price.
+
+17. The buyer who understands the cost of the campaign does not ask how much he can make if he is right. He asks how many times he can afford to be wrong before the time he is right, and buys small enough that the answer is many.
+
 ## Commentary
 
 The chapter on waging war is a chapter about expense, and in this trade the expense is well hidden. The credit looks like income; the risk does not appear on any statement until the morning it does. A seller who holds a failing spread believes he is being patient. In the old general's arithmetic he is feeding an army that has already lost, and the provisions come from the treasury that was supposed to fund the next hundred trades.
@@ -90,8 +128,14 @@ The number that matters is the ratio of the loss you allow to the credit you too
 
 Foraging on the enemy has a plain meaning here. Someone must sell protection to a market that must hedge. Someone must sell direction to a buyer who wants it. The seller's provisions are the other side's needs, and those needs renew every session. His own provisions — his capital and his temper — do not.
 
+The buyer's campaign has the opposite expense. He pays a little every day to hold the right, and the amount looks negligible until it is added up. An option losing a twentieth of what is left of it each day is about half gone after two weeks of waiting, whether or not the thesis was right. The buyer's siege is therefore not a broken line but a stale reason: the option held past the date it was bought for, because selling it would make the loss real.
+
+His foraging ground is the seller's comfort. When the market has been calm long enough, sellers price protection as if calm were permanent, and the rent falls. A buyer who pays rent only on that ground, and only for a dated reason, has turned the seller's wage into his own entry price. A buyer who pays it everywhere is the provisions the seller forages on.
+
 
 ### 3. Winning Without Fighting
+
+## The Seller
 
 1. In the practical art of trading, the best thing is to take the credit whole and unharmed; to fight for it against a moving market is second best.
 
@@ -117,6 +161,20 @@ Foraging on the enemy has a plain meaning here. Someone must sell protection to 
 
 12. To know yourself is to know the exact loss at which you will leave, and to have left at that loss before.
 
+## The Buyer
+
+13. The buyer cannot win without fighting. He must be right about direction, distance and date. Let him therefore fight only where two of the three are already decided.
+
+14. Direction he borrows from the trend, as the seller does. Date he takes from the calendar, never from a feeling. Only distance is left to his judgement, and it is the one judgement he is paying for.
+
+15. The buyer names one door of four, and he knows it. His art is to choose the door the market has priced as narrow and the event will make wide.
+
+16. One door in four is not one win in four. The buyer's door, when it opens, is wider than the three that close; that is what he pays for. The market prices this honestly too. His edge, where it exists, is a door priced narrower than it is.
+
+17. The highest form of buying is to pay for a move the seller has forgotten to charge for. The next is to cheapen the debit by selling the far wing. The lowest is to buy the move the whole market is already shouting about.
+
+18. To know himself, the buyer must know how many debits in a row he can lose without changing his size or his mind. If he has never counted it, the tape will count it for him.
+
 ## Commentary
 
 The general's most famous line — that supreme excellence is to win without fighting — is the seller's whole thesis. The buyer of an option must be right three times: direction, distance and date. The seller of a spread must be right once: that price stays on his side of a line he chose. He has given away the arrow and kept the fence, and the fence is priced. He is not smarter than the buyer. He has simply refused the fight the buyer insists on.
@@ -125,21 +183,27 @@ The four doors are the honest version of this. Only a real move, far enough, in 
 
 Knowing yourself, in this chapter, is not a mood. It is a number. The seller who cannot say the price at which he will leave does not know himself, however calm he feels at the open, because the tape will ask him the question when he is least calm.
 
+Read from the other side, the same line is the buyer's warning. He must be right three times, so he cannot afford to be careless about any of the three. The disciplined buyer does not make three forecasts; he takes two of them from somewhere other than himself. Direction comes from the trend's structure, date from a scheduled event, and only distance remains a judgement.
+
+The four doors work against him and for him in the same breath. He is paid by one door only, but it is the widest in the house, and the market charges him for the width in advance. Nothing about the shape of a long option is an edge, any more than the shape of a spread is. The buyer's edge, when there is one, is that the door has been priced too narrow — by sellers who have watched it stay shut for so long that they have stopped charging for the day it opens.
+
 
 ## Part II: Shape and Force
 
 Chapters four to six are about shape. The old text says that the skilful fighter first makes himself invincible and then waits for the enemy to become vulnerable. Invincibility is a matter of defence and lies with you; vulnerability is a matter of the enemy and does not.
 
-For the premium seller, that is the entire trade. The defined-risk spread is the invincible position; the hedge into reversal is the response to the enemy's move; compounding is the force that a well-shaped position releases over time.
+For the premium seller, that is the entire trade. The defined-risk spread is the invincible position; the hedge into reversal is the response to the enemy's move; compounding is the force that a well-shaped position releases over time. For the buyer, the debit is the invincible position, because it is the whole risk paid in advance; the catalyst is the opening the enemy gives; and compounding is the arithmetic that punishes him for the gaps between rare wins.
 
 
 ### 4. The Unbeatable Position
+
+## The Seller
 
 1. The good fighters of old first put themselves beyond the possibility of defeat, and then waited for an opportunity to defeat the enemy.
 
 2. To be beyond defeat lies in your own hands. To defeat the enemy lies in the enemy's. The seller can make himself unbeatable; he cannot make the market give him a move.
 
-3. Being unbeatable is a matter of defence. The defined-risk spread is the only position in this book, because it is the only one whose worst day is printed on the ticket before the day begins.
+3. Being unbeatable is a matter of defence. Defined risk is the only kind of position in this book, because it is the only kind whose worst day is printed on the ticket before the day begins: the seller's spread, whose width is its ceiling, and the buyer's debit, which is its own.
 
 4. Sell a five-wide spread for one, and the maximum loss is four. Written. Known. Chosen. The market cannot enlarge it. Only the seller can, by selling more.
 
@@ -157,16 +221,36 @@ For the premium seller, that is the entire trade. The defined-risk spread is the
 
 11. A victorious seller enters the trade having already survived it. A defeated seller enters, and then looks for a way to survive.
 
+## The Buyer
+
+12. The buyer's position is unbeatable from the moment he pays. The debit is his whole risk, printed on the ticket and paid before the day begins. No gap can enlarge it.
+
+13. But unbeatable is not unharmed. A debit can go to zero every time, and a buyer who sizes each one as if it could not is beaten by arithmetic alone.
+
+14. Size the debit so that losing all of it is ordinary. Then the buyer may lose many times in a row, which he will, and still be in the field on the day the door opens.
+
+15. The buyer who is beyond defeat does not need to be right often. He needs to be small when wrong and present when right.
+
+16. Attacking indicates a superabundance. The buyer is the attacker in this trade, and his superabundance is not capital. It is the number of attempts his size allows.
+
+17. A victorious buyer enters having already accepted the loss of the whole debit. A defeated buyer enters, and then begins to hope.
+
 ## Commentary
 
-This chapter is the reason the whole book is about spreads and nothing else. The general's "invincible" has an exact translation: a position whose maximum loss is a number, not a hope. The seller of a vertical spread has read his worst day off the ticket. He may dislike that day, but he cannot be surprised by it, and surprise is the only thing in this trade that ends accounts.
+This chapter is the reason the whole book is about defined risk and nothing else. The general's "invincible" has an exact translation: a position whose maximum loss is a number, not a hope. The seller of a vertical spread has read his worst day off the ticket. He may dislike that day, but he cannot be surprised by it, and surprise is the only thing in this trade that ends accounts.
 
 "First be beyond defeat, then wait" also fixes the order of operations that most traders reverse. They find a direction they believe in, then look for a way to size it. The seller does the opposite: he fixes the size such that the printed maximum loss is a normal, boring expense, and only then asks where the line should be. The line can be wrong — that is Tuesday. The size cannot be wrong, because the size is what decides whether Wednesday happens.
 
 The fair reading of "standing on the defensive indicates insufficient strength" is that it is true, and that is fine. The seller's edge, where it exists, is a small, structural premium for holding a line that others must cross. It is not large enough to survive being attacked with. Whoever treats it as a war chest has misread the ledger.
 
+The buyer has the general's invincibility for free: his worst day is the debit, paid in advance, and nothing the market does can make it larger. What he lacks is the seller's frequency of small wins, so his invincibility is tested in a different way — not by one catastrophe but by a long run of total losses on a low win rate. A buyer who needs one trade in five to break even will, by plain arithmetic, sometimes lose ten in a row. If ten debits in a row are more than his account or his nerve can carry, his position was never unbeatable. Only his ticket was.
+
+So the order of operations is the same at both ends of the ticket. The seller fixes the size so that a maximum loss is boring; the buyer fixes it so that a run of total losses is boring. Only then does either of them look for a line, or a door.
+
 
 ### 5. Force and the Four Quarters
+
+## The Seller
 
 1. The control of a large force is the same in principle as the control of a few: it is a matter of dividing it.
 
@@ -192,6 +276,20 @@ The fair reading of "standing on the defensive indicates insufficient strength" 
 
 12. Small and repeatable outruns large and rare, and it does it quietly. Boring is the product.
 
+## The Buyer
+
+13. The buyer divides his force too, but by time rather than by side.
+
+14. He does not buy the whole position at once. One part when the setup appears, one when the catalyst is near, one when the market confirms. A ladder, not a leap.
+
+15. Each rung is sized so that if the trade ends at that rung, the loss is that rung's debit alone.
+
+16. The buyer's energy is the asymmetry he has paid for; his timing is the catalyst. Bought too early, the energy leaks away as rent. Bought too late, it has already been spent by others.
+
+17. Compounding is harsher on the buyer than on the seller, because his results arrive rarely and in large pieces. A long run of small losses shrinks the base on which the rare win must multiply.
+
+18. Therefore the buyer's falcon is the time stop and the profit taken. A long option that has doubled is not yet money. Held to expiry, it often turns back into a lesson.
+
 ## Commentary
 
 The general's chapter on energy is usually read as a chapter on momentum, and the seller's momentum is compounding. Returns multiply; they do not add. A plus-one-hundred followed by a minus-fifty is two times one half — exactly nothing, after a month of adrenaline. The same account taking a smaller figure without a reset ends the period on a number that looks like an error. This is not a claim about markets; it is what multiplication does, and it can be checked on paper in a minute.
@@ -200,8 +298,14 @@ The four quarters are the seller's division of force. The first quarter is the r
 
 Nothing in this chapter says you will earn ten percent at any interval, ever. It says only that if you ever do have a repeatable process, what decides where you finish is not the size of your best result. It is whether the sequence stays unbroken — and the stop, the falcon's swoop, is what keeps it so.
 
+The buyer's division is by time. A ladder of entries — the first small, at the setup; the next as the catalyst approaches; the last only on confirmation — lets him pay less for being early and commit more only once the market has agreed. It also keeps the first loss, which is the most common one, the smallest.
+
+Compounding is the buyer's harder lesson. His returns come rarely and in large pieces, and multiplication punishes the gaps between them. Twenty debits of one percent each, all lost, leave the account at about eighty-two percent of itself; the win that follows is measured against that smaller base, not the original. The arithmetic can be checked on paper, and it tells the buyer what it tells the seller: the sequence decides, and the sequence is protected by size.
+
 
 ### 6. Weak Points and Strong
+
+## The Seller
 
 1. Whoever is first in the field and awaits the enemy will be fresh for the fight; whoever comes second and has to hasten to battle will arrive exhausted.
 
@@ -225,6 +329,20 @@ Nothing in this chapter says you will earn ten percent at any interval, ever. It
 
 11. The five elements are not always equally predominant; the four seasons make way for each other in turn. The market has its seasons too: flat is its ordinary one, and direction is a treat.
 
+## The Buyer
+
+12. The buyer, too, should be first in the field. Buy while the tape is calm and the rent is cheap; do not buy after the move, when everyone who is late is bidding for the same right.
+
+13. Attack undefended places. The buyer attacks the move the sellers have stopped defending: the option whose implied volatility sits below what the calendar is likely to deliver.
+
+14. Avoid what is strong. The strong place for the buyer is the expensive option, whose price already contains the move he expects.
+
+15. Water runs away from high places. The buyer's water runs toward cheap volatility and away from rich.
+
+16. The trader who held the wing left by a seller's cut was already a buyer, whether or not he called himself one. That wing is the one long option in this book bought for nothing, because the credit paid for it.
+
+17. Therefore the buyer does not predict either. He prices. The question is not whether the market will move, but whether it will move more than the option's price says.
+
 ## Commentary
 
 Weak points and strong is the chapter of the hedge. The old general's water finds the low ground; the seller's position finds the side of the market that is not moving. When the first spread — sold in the direction of the trend — begins to hurt, the answer is not to defend it and not to double it. It is to sell the other side. The bet becomes a condor, the credit doubles, and a bad morning becomes a flat afternoon. The second side is a reaction to being hurt, never a schedule; a condor sold at the open is a different trade with twice the risk and none of the information.
@@ -232,6 +350,10 @@ Weak points and strong is the chapter of the hedge. The old general's water find
 From the condor there are two futures. If the market goes flat, both credits are collected and the day is ordinary. If the trend resumes and runs through a line, the seller does not cut the losing vertical whole. He buys back the short leg only and keeps the wing — which is cheap, already paid for, and now the only thing in the book that profits if the move continues. Paired with the winning credit spread on the other side, it is a net long riding the very move that hurt him.
 
 "Do not repeat the tactics that won" has a dull, exact meaning: the strikes that were safe yesterday are not information about today. The walls of dealer positioning move overnight, the expected move changes with volatility, and the line must be chosen again every morning, in the temple, before the first order.
+
+For the buyer, weak and strong are measured in price. The weak point is the option priced for a calmer future than the calendar promises; the strong point is the one priced for exactly the move he expects, or more. Buying the strong point is not a mistake about direction. It is paying full price for a right the seller has already charged for, and it is the most common way to be right about the market and still lose money.
+
+The wing that survives the seller's cut is where the two halves of this book meet. It was bought as insurance, paid for by the credit, and on the day the line breaks it becomes the only long option on the board that cost nothing to hold. A seller who has learned to let that wing ride has learned the buyer's whole art in one position: a small, paid-for right, held only while the move that justifies it is still under way.
 
 
 ## Part III: The March
@@ -242,6 +364,8 @@ In the market, the march is the trading day. Most accounts are not lost to one g
 
 
 ### 7. Manoeuvring
+
+## The Seller
 
 1. There is nothing harder than manoeuvring. The difficulty consists in turning the devious into the direct, and misfortune into gain.
 
@@ -269,6 +393,20 @@ In the market, the march is the trading day. Most accounts are not lost to one g
 
 13. Do not pursue an enemy who simulates flight. Do not chase a reversal that has not confirmed. Do not attack soldiers whose temper is keen; do not sell into a panic that is still accelerating. Leave a way of escape to a surrounded enemy; leave a wing in every spread.
 
+## The Buyer
+
+14. The buyer's manoeuvre is patience before the catalyst and speed after it.
+
+15. If the buyer marches in haste — buying every flicker of movement — he arrives at the real move with his debits spent and his nerve gone.
+
+16. The buyer's baggage train is the cash he did not spend on the last ten ideas. Without it the eleventh, which is the right one, must be passed by.
+
+17. In raiding, divide your spoils. When the long option has paid, sell part of it. The buyer who waits for the last tenth of a move is paid nothing on the day it reverses.
+
+18. Do not stack the same direction in two costumes. A call bought and a put sold on the same name are one bet; so is a call bought beside stock already owned. Count the net direction.
+
+19. Do not pursue an enemy who simulates flight. Do not buy the reversal that has not confirmed. Do not buy the option after the gap; buy before it, or not at all.
+
 ## Commentary
 
 Manoeuvring is the chapter about frequency, and frequency is a risk dial that most traders do not know they are turning. The old general loses his baggage by marching too fast; the seller loses his fourth quarter by trading too often. Every additional entry in a day is a levy on the reserve that was supposed to let an open position breathe. By noon the fast marcher is full size in one direction with nothing left for the hedge, and the first ordinary fluctuation closes him out.
@@ -277,8 +415,14 @@ Two rules in this chapter are absolute. The first is never to stack on the same 
 
 Rapid as the wind is about one action only: the cut. Everything else in this trade is meant to be slow — the temple count, the line chosen while the tape is calm, the hedge sold only when hurt. Speed kept for the exit, and nowhere else, is what separates manoeuvre from panic.
 
+For the buyer the danger of the march is the same and the cost is more visible. Every debit spent on a move that did not come is gone; it does not come back as a hedge or a re-entry. A buyer who trades often spends his reserve on noise, and the reserve is exactly what he needed on the day a real catalyst arrived with a real mispricing. For the seller, frequency is a risk dial. For the buyer, it is a bill.
+
+Rapid as the wind, for the buyer, is the taking of profit. A long option that has paid is now worth mostly volatility and time, and both leave quickly once the move is over. The buyer who sells part at once and lets the rest run on a stop has kept the spoils. The one who waits for the whole move has lent them back to the seller.
+
 
 ### 8. Variation
+
+## The Seller
 
 1. There are roads which must not be followed, armies which must not be attacked, towns which must not be besieged, positions which must not be contested, commands of the sovereign which must not be obeyed.
 
@@ -302,6 +446,18 @@ Rapid as the wind is about one action only: the cut. Everything else in this tra
 
 11. Therefore the rule for variation is one rule: when the reason for the trade is gone, the trade is gone. Not the money — the reason. The money follows.
 
+## The Buyer
+
+12. The buyer has five dangerous faults too, and they are the seller's turned inside out.
+
+13. Recklessness, which buys too much of a cheap thing because it is cheap. Cowardice, which sells the winner at the first profit and holds every loser to zero. A hasty temper, which buys the next move to win back the last debit. A delicacy of honour, which will not admit that the catalyst has passed. And over-solicitude for the idea, which buys next month when this month expires worthless.
+
+14. Of the five, the last is the deadliest for the buyer. Rolling a dead thesis forward is not patience. It is paying rent twice on a house that has burned.
+
+15. There are options which must not be bought: the one already priced for the move, the one whose reason has no date, and the one whose debit is larger than a loss he would accept without comment.
+
+16. The rule of variation is the same for the buyer: when the reason is gone, the option is gone. The buyer's reason is a date, and when the date passes, so does the reason.
+
 ## Commentary
 
 The chapter on variation is the general's warning that rules without exceptions are for men who do not intend to survive contact. The seller's exceptions are the roads not to follow: the event day when the expected move is a lie, the line that would be right if only the wall had not moved overnight, the signal that arrives from a trusted source and is wrong anyway. Knowing the setup is the ground; knowing when the setup no longer applies is the variation, and it is the harder study.
@@ -310,8 +466,14 @@ The five faults translate almost without effort, and the translation is unkind. 
 
 The single rule of variation is that the reason ends the trade, not the price. A spread sold because the trend was up, in a market whose structure has just broken to the downside, has lost its reason whether or not it has yet lost money. Wait for the money to confirm what the reason already said and you will have waited exactly as long as the market needs to charge you for it.
 
+The buyer's five faults are easy to recognise because each is the seller's fault reversed. The seller's cowardice closes winners too early and never collects; the buyer's does the same to his rare winners, which is worse, because the rare winners are the whole of his income. The seller's delicacy of honour will not cut a broken spread; the buyer's will not admit that the event has come and gone. And the seller's loyalty to a morning opinion becomes, for the buyer, the roll: the expired call replaced with next month's, at a fresh debit, on a reason that has already been tested and failed.
+
+Variation for the buyer comes down to the time stop. The seller's trade ends when price crosses a line; the buyer's ends when the calendar crosses a date. Both stops are set in the temple, and both are broken the same way, by a man who decides on the tape that today is the exception.
+
 
 ### 9. The March
+
+## The Seller
 
 1. Camp in high places, facing the sun. Do not climb heights in order to fight. So much for mountain warfare.
 
@@ -339,6 +501,18 @@ The single rule of variation is that the reason ends the trade, not the price. A
 
 13. He who exercises no forethought but makes light of his opponents is sure to be captured by them.
 
+## The Buyer
+
+14. The buyer camps in the low places and waits for the sun. His ground is calm volatility that is about to stop being calm.
+
+15. The buyer reads the same signs as the seller and acts on the opposite ones. A pivot broken is the seller's warning and the buyer's invitation.
+
+16. When the ATR trail flips, the buyer may follow it: calls behind a market that has turned up, puts behind one that has turned down. Neither while it is deciding; deciding is where rent is paid for nothing.
+
+17. Volume dying into a quiet range is the sign of a coiled market. That is the buyer's high ground: the move nobody is paying for yet.
+
+18. A market that presses a level for an hour without breaking it is the seller's danger and the buyer's patience. He does not buy the press. He buys the break, small, with his stop at the level.
+
 ## Commentary
 
 The army on the march is the chapter about reading signs, and the seller's signs are structural. Direction is not read from a feeling or a headline but from the market's own pivots: whether the last swing low held or broke, whether the character of the swing has changed, whether a trailing stop that ratchets with volatility has flipped from one side of price to the other. This is the read that decides which side is sold. Bull sells puts. Bear sells calls. Undecided sells nothing and waits, which is also a position.
@@ -347,15 +521,21 @@ High ground and river crossings have exact counterparts. The high ground is dist
 
 The sign that matters most is the quiet one. A market pressing against your line without breaking it is not evidence the line holds; it is the enemy standing close at hand and remaining quiet, relying on the strength of his position. Vigilance here means having already decided what the cut price is, so that when the quiet ends you are executing a decision rather than making one.
 
+The buyer reads the same signs from the other bank of the river. The quiet market the seller treats as safety, the buyer treats as stored energy: realised volatility falling, volume drying up, a range narrowing toward a dated event. That is where options are cheapest, and where a buyer pays the least rent for the most possible movement.
+
+The signs of a turning trend are the same signs for both. When the structure breaks — the higher low lost, the trail flipped — the seller moves his line and the buyer takes his entry. Neither acts while the market is deciding. The seller is not paid there, and the buyer pays rent there for nothing.
+
 
 ## Part IV: Ground and Fire
 
 The last four chapters are the hardest ground. Terrain that must not be fought on. The nine situations an army can find itself in, and what each demands. Fire, the weapon that destroys faster than any sword. And finally spies — because the general who knows wins before he moves.
 
-For the seller: the regimes to refuse, the stages of a trade from first entry to the desperate ground where only the stop remains, volatility as fire, and the journal as the only spy who has never lied to you.
+For the seller: the regimes to refuse, the stages of a trade from first entry to the desperate ground where only the stop remains, volatility as fire, and the journal as the only spy who has never lied to you. For the buyer: the grounds where rent is cheap and the ones where it is a trap, the long middle of a trade where the option bleeds, volatility as the fire he must buy before the smoke, and the same journal, which alone can count the losers beside the winner.
 
 
 ### 10. Terrain
+
+## The Seller
 
 1. We may distinguish six kinds of terrain: accessible ground, entangling ground, temporising ground, narrow passes, precipitous heights, and positions at a great distance from the enemy.
 
@@ -383,6 +563,18 @@ For the seller: the regimes to refuse, the stages of a trade from first entry to
 
 13. Know the enemy and know yourself, and your victory will not stand in doubt. Know the ground and know the sky, and you may make your victory complete.
 
+## The Buyer
+
+14. The buyer has his own map of the six grounds, and it is nearly the seller's map turned over.
+
+15. On accessible ground, the clean trend, the buyer may follow. But options on a calm trend are cheap for a reason, and the buyer must be content with the trend's pace.
+
+16. Temporising ground — the hour before the number — is where the buyer is most tempted and most often charged. The option is richest just before the event and falls the moment the event is known. He who buys into the spike pays for the information and receives the crush.
+
+17. Narrow passes are the buyer's ground only if he arrived first: bought the move days before the event, while the rent was cheap, and sold into the spike.
+
+18. Positions at a great distance — far expiries — are the buyer's friend. They charge less rent per day and give the move time to arrive. A near expiry on a slow thesis is a fuse cut too short.
+
 ## Commentary
 
 Terrain is a chapter about refusal. Of the six grounds, the seller fights well on one — the clean trend — and adequately on two, the range and the post-gap market, provided he changes shape to suit them. The other three are grounds to leave alone: the hour before a scheduled number, the volatility spike into an event, and a far expiry sold without a reason. A trader who sells every day has decided that all six grounds are the same, and the market will charge him tuition on the three that are not.
@@ -391,8 +583,14 @@ The entangling ground deserves the closest reading, because it is where the cond
 
 The last verse is the summary of the book so far: yourself, the enemy, the ground and the sky. The Commander's discipline; the market's ordinary flatness and exceptional direction; the six grounds and which to refuse; and time, which decays in the seller's favour every hour he is not fighting it.
 
+For the buyer the six grounds sort differently. The event pass the seller refuses to enter before the news is the one the buyer is most likely to enter at the worst price: implied volatility peaks just before the print and collapses just after it, so the buyer who pays at the top must be right by more than the market already expected merely to break even. The disciplined buyer arrives at the pass early, while the rent is low, or not at all.
+
+Distance favours him where it disfavours the seller. A far expiry costs more in total but less per day, and its value falls slowly while the thesis matures. The buyer's mistake is the reverse of the seller's: not distance without a reason, but nearness without one — the cheap weekly option bought on a thesis that needs a month.
+
 
 ### 11. The Nine Situations
+
+## The Seller
 
 1. The art of war recognises nine varieties of ground. The seller's trade passes through nine, from the moment the line is chosen to the moment there is nothing left but the stop.
 
@@ -422,6 +620,18 @@ The last verse is the summary of the book so far: yourself, the enemy, the groun
 
 14. At first, then, exhibit the coyness of a maiden, until the enemy gives you an opening; afterwards emulate the rapidity of a running hare, and it will be too late for the enemy to oppose you. Wait for the line to be offered at a price. Then cut, when cutting is due, faster than the tape can charge you for waiting.
 
+## The Buyer
+
+15. The buyer passes through the nine grounds too, and the one where he is most often lost is serious ground: deep in the trade, the catalyst not yet come, the option bleeding every day.
+
+16. On serious ground the seller gathers plunder; the buyer pays it. Let him know the daily cost before he enters, so that the bleeding is a number and not a fear.
+
+17. Difficult ground, for the buyer, is the move that starts and stalls. Keep steadily on the march only if the date has not passed.
+
+18. Hemmed-in ground, for the buyer, is the event that came and failed. Resort to no stratagem. Sell what remains.
+
+19. Desperate ground does not exist for the buyer. His maximum loss was paid on the first day. This is the buyer's one great advantage, and he loses it only by adding to a loser.
+
 ## Commentary
 
 The nine situations are read here as the nine stages of a single trade, and the reading holds surprisingly well. The open is dispersive ground — the trader is at home, fully armed, and the danger is that he spends everything on the first opinion. The middle of a working trade is serious ground, where the only instruction is to let the plunder come in: theta pays a seller who is not wrong, hour by hour, and the discipline is simply to do nothing. Difficult ground is the fluctuation, which every position passes through before it resolves; the fourth quarter is the reserve that lets it be endured.
@@ -430,8 +640,12 @@ Hemmed-in and desperate ground are the two the seller must have already decided 
 
 "Throw your soldiers into positions whence there is no escape" is the least intuitive line in the chapter and the most important. The seller does not set his stop on the tape, where every price argues with it. He sets it in the temple, before the order, where it is an arithmetic and not a feeling. When the market reaches it, there is nothing to decide, and the absence of a decision is the whole of the discipline.
 
+For the buyer the nine grounds lean the other way. Desperate ground, which the seller must have planned for, does not exist for him: the worst case was paid in full on the day he entered. His danger is the long middle — serious ground, where the option bleeds while the catalyst approaches, and difficult ground, where the move begins and stalls. The buyer who knows the daily rent in advance can endure both. The buyer who discovers it on the screen will either sell at the worst moment or buy more to lower his cost, and so build for himself the one ground he could never otherwise have reached.
+
 
 ### 12. Fire
+
+## The Seller
 
 1. There are five ways of attacking with fire. The first is to burn soldiers in their camp; the second is to burn stores; the third is to burn baggage trains; the fourth is to burn arsenals and magazines; the fifth is to hurl dropping fire amongst the enemy.
 
@@ -461,6 +675,18 @@ Hemmed-in and desperate ground are the two the seller must have already decided 
 
 14. Hence the enlightened ruler is heedful, and the good general full of caution. This is the way to keep an account at peace and a sequence intact.
 
+## The Buyer
+
+15. Fire burns the seller and warms the buyer. Volatility is the buyer's ally, but only the volatility he paid for before it arrived.
+
+16. The buyer who buys during the fire pays the fire's price. Options are dearest while the smoke is rising, and their value falls the moment it clears.
+
+17. Dropping fire — the news in the middle of the trade — is the buyer's one free gift. He may receive it; he must not pay for it in advance at full price.
+
+18. The buyer's own fire is the crush: the event comes, moves the market a little, and leaves the option worth less than before. He was right about the direction and paid for a larger move than came.
+
+19. An account halved needs a double. This is the buyer's law too: twenty debits lost make a smaller base for the twenty-first, and the twenty-first must win larger to repair it.
+
 ## Commentary
 
 The chapter on fire is the general's chapter on the weapon that does not care about skill, and for the seller that weapon is volatility. It arrives as a gap that puts the line behind the price before the first order can be placed; as a spike that makes the hedge unaffordable in the exact hour it becomes necessary; as a headline in the middle of a working trade. None of these can be predicted. All of them can be survived, and survival is arranged in advance: the size that makes a gap an ordinary expense, the wing that is always present because the spread always contains one, the reserve that keeps the broker's hand off the position.
@@ -469,8 +695,14 @@ The two fires the seller lights himself deserve naming. The margin call is size.
 
 The last verses are the arithmetic of ruin, stated by a general who had seen kingdoms end. Minus fifty needs plus one hundred. Minus eighty needs plus four hundred. This is not a warning about markets; it is what multiplication does to a sequence with a hole in it. It is also why the stop — the subject of nearly every chapter — is the only rule in the book with no exceptions.
 
+For the buyer, fire is the reason for the trade. A long option is a bet that volatility will arrive, and its value is a claim on the fire. But the claim must be bought before the smoke, at a price set by people who do not expect a fire. A buyer who pays during the spike buys a claim the market has already marked up, and the crush that follows the event — volatility falling as soon as the news is known — can take his profit even when the move went his way.
+
+So the same two rules hold. Size so that losing the whole debit is boring, and give the day a ceiling on how many debits it can spend. The fire that ruins a buyer is not one catastrophe. It is the slow burn of paying, again and again, for fires that do not come.
+
 
 ### 13. Spies
+
+## The Seller
 
 1. What enables the wise sovereign and the good general to strike and conquer, and achieve things beyond the reach of ordinary men, is foreknowledge.
 
@@ -488,7 +720,7 @@ The last verses are the arithmetic of ruin, stated by a general who had seen kin
 
 8. Converted spies are positioning: the dealer's hedges, the walls of gamma, the levels where the enemy's own soldiers must buy or sell against their will. A converted spy works for the enemy and tells you where the enemy is forced to go. Of all five, he is the most valuable, and the one most traders never recruit.
 
-9. Doomed spies are the news: information sent out to be believed, and to be acted upon by those who do not check it against the other four. Every headline is a doomed spy. Let him carry his message to the buyers.
+9. Doomed spies are the news: information sent out to be believed, and to be acted upon by those who do not check it against the other four. Every headline is a doomed spy. Let him carry his message to the crowd.
 
 10. Surviving spies are those who bring back news from the enemy's camp. The seller's surviving spy is his own journal: the record of every trade, the reason it was taken, the price at which it was cut or held, and what happened after. He is the only spy who has never lied, and he is the only one most traders refuse to keep.
 
@@ -502,10 +734,26 @@ The last verses are the arithmetic of ruin, stated by a general who had seen kin
 
 15. The seller who has sold a thousand lines and written down none of them has fought a thousand battles and learned the lesson of one. The seller who has written down a hundred has a spy in every future camp.
 
+## The Buyer
+
+16. The buyer keeps the same five spies, and trusts the inward spy most.
+
+17. Implied volatility tells the seller his wage and tells the buyer his price. A buyer who does not read it before every trade does not know whether he is buying a bargain or the seller's best day.
+
+18. The converted spy tells the buyer where the dealers will be forced to chase: when the wall breaks, the enemy's own hedges push price in the buyer's direction.
+
+19. The buyer's surviving spy is the journal too, and for every trade it must hold five sentences written before entry: the edge, the catalyst, the maximum loss, the time stop, and the breakeven win rate.
+
+20. Without the journal the buyer remembers the one option that rose tenfold and forgets the forty that expired. With it, he can count whether the forty and the one together paid.
+
 ## Commentary
 
-The general ends with spies because everything before — the count, the ground, the fire — depends on knowing, and knowing comes from people rather than from prayer. The seller's translation is that forecasts are the spirits the old text forbids consulting, and the market's dispositions are the men. Price tells him what has been decided. Volatility tells him what protection costs and therefore what he will be paid. Positioning tells him where the other side is forced to act against its will, which is the single most useful fact a seller can own about a line. The news tells the buyers what to think, and he lets it.
+The general ends with spies because everything before — the count, the ground, the fire — depends on knowing, and knowing comes from people rather than from prayer. The seller's translation is that forecasts are the spirits the old text forbids consulting, and the market's dispositions are the men. Price tells him what has been decided. Volatility tells him what protection costs and therefore what he will be paid. Positioning tells him where the other side is forced to act against its will, which is the single most useful fact a seller can own about a line. The news tells the crowd what to think, and he lets it.
 
 The surviving spy is the chapter's real subject. A journal that records the reason for every trade, at the time it was taken, is the only instrument that can tell a seller whether his losses came from bad ground, bad size, or the Commander's five faults. Without it he remembers his best trades and his worst, and nothing in between, and the pattern that is killing him is always in between. It must be written before the outcome is known, and it must be kept by a man willing to read it.
 
+For the buyer the inward spy matters most. Implied volatility is the price of the right he wants, and the whole of his edge, where it exists, is a gap between that price and the move that follows. The journal matters as much to him as to the seller, and for a sharper reason: a buyer's results are dominated by rare large wins, and memory keeps those and drops the long run of small losses that paid for them. Only a written count can say whether the one paid for the forty.
+
 The last verse is the book's own sentence about itself. Thirteen chapters, in a general's order, on a single trade: count before you fight; know the cost of a campaign; win without needing to be right; be unbeatable before you look for a chance; divide your force in four; respond, do not predict; march slowly and cut fast; know the roads not to take; read the signs; refuse the wrong ground; know which of the nine situations you are in; survive fire; and keep the spy who never lies. None of it will make you right. It makes being wrong survivable, and survival is the only thing that compounds.
+
+The buyer reads the same thirteen chapters and arrives at the mirror of the same sentence: say the five sentences before you pay; know the rent; fight only where direction and date are already decided; be small enough to lose many times; buy by a ladder, not a leap; buy what is cheap, not what is loud; march slowly and take profit fast; leave when the date passes; buy the coil, not the press; refuse the spike before the event; know that the middle of the trade is where the rent is paid; let fire come to you rather than pay for it in the blaze; and keep the journal that counts the forty losers beside the one winner. Neither side is the right side. Each is a way of being wrong that can be survived, if it is counted.
