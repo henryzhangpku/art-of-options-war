@@ -8,6 +8,8 @@ Two and a half thousand years ago a general wrote thirteen short chapters on how
 
 Selling options is the same problem in a different uniform. The seller is paid to hold a line. He does not need to know where the enemy will go, only where the enemy will not arrive in time. He wins most engagements and can be ruined by one.
 
+This is a seller's book only. Every buyer in it is the other side of the seller's trade, never the reader. Buying options — long calls and puts, debit spreads, paying for asymmetry — has its own book: [The Counted Trade · 算而后战](https://github.com/henryzhangpku/the-counted-trade).
+
 Numbered aphorisms with a commentary, in the manner of the Giles translation. No forecasts, no signals, no performance claims.
 
 The companion book, [The Options Underwriter · 期权承保](https://github.com/henryzhangpku/options-underwriter), reads the same trade as running an insurance company — policy, price, reserves, claims, catastrophe. Same format, different ideas: war here, insurance there. Both are free.
