@@ -42,6 +42,18 @@
 
 18. Positions at a great distance — far expiries — are the buyer's friend. They charge less rent per day and give the move time to arrive. A near expiry on a slow thesis is a fuse cut too short.
 
+19. *Fish in troubled waters* (第20计 混水摸鱼). In a high-volatility market the water is already muddy. Protection and lottery tickets are bought in the same hour, and both are marked up.
+
+20. Premium is dearest when buying feels most urgent. To reach for a long single leg in that water is to buy the alarm at its peak. Fish with the spread: the strike that is sold hands back part of the inflated premium, and less has to be true for the same move to pay.
+
+21. Muddy water is not the buyer's ally. It is his price, and he beats it only by paying less for it than the crowd.
+
+22. *Shut the door to catch the thief* (第22计 关门捉贼). The plan is the door, and it shuts at entry. After that, the thief is inside terms already written.
+
+23. Do not move the stop because the price came close. Do not widen the spread because the debit became uncomfortable. Do not extend the time stop because the thesis is "still intact". "Give it room" is the thief's phrase, spoken in the trader's voice.
+
+24. Tightening is permitted. A smaller loss is still a loss taken by plan. Loosening is the theft. On every ground of this chapter, the door is shut before the ground is entered.
+
 ## Commentary
 
 Terrain is a chapter about refusal. Of the six grounds, the seller fights well on one — the clean trend — and adequately on two, the range and the post-gap market, provided he changes shape to suit them. The other three are grounds to leave alone: the hour before a scheduled number, the volatility spike into an event, and a far expiry sold without a reason. A trader who sells every day has decided that all six grounds are the same, and the market will charge him tuition on the three that are not.
@@ -53,6 +65,10 @@ The last verse is the summary of the book so far: yourself, the enemy, the groun
 For the buyer the six grounds sort differently. The event pass the seller refuses to enter before the news is the one the buyer is most likely to enter at the worst price: implied volatility peaks just before the print and collapses just after it, so the buyer who pays at the top must be right by more than the market already expected merely to break even. The disciplined buyer arrives at the pass early, while the rent is low, or not at all.
 
 Distance favours him where it disfavours the seller. A far expiry costs more in total but less per day, and its value falls slowly while the thesis matures. The buyer's mistake is the reverse of the seller's: not distance without a reason, but nearness without one — the cheap weekly option bought on a thesis that needs a month.
+
+The twentieth stratagem names a seventh ground the general did not need: the muddy water of a volatility shock. The fisherman in the old story stirs the mud himself. The market needs no help. Fear lifts implied volatility, and it lifts the price of every structure built on it, so the buyer who acts on urgency pays the top of both protection and speculation at once. His error there is structural rather than directional. A long single leg carries the full sensitivity to the chain's fear; a debit spread carries the difference between two, and the strike sold hands back part of the inflated price. The view can be identical. The price of admission is not. And the far bank of muddy water, where the income from selling looks easiest, belongs to the seller with his reserve and his wings. A buyer who crosses over in a panic becomes a seller without a seller's collateral or temperament.
+
+The twenty-second is the rule that holds on all six grounds. The three forbidden moves, moving the stop, widening the spread, extending the time stop, are the same move: each takes a loss that was measured at entry and makes it unmeasured again, at the worst possible moment, when the position is already losing. They rarely arrive as a decision. They arrive as a sentence: the thesis needs one more week, the strike was too close, the date slipped. The sentence is always reasonable, which is what makes it the thief. Tightening is the one revision allowed, because it cannot enlarge the worst case. The seller keeps the same door: the cut price is written in the temple, and the terrain he finds himself on does not get a vote.
 
 ---
 

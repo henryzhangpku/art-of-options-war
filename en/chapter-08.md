@@ -38,6 +38,16 @@
 
 16. The rule of variation is the same for the buyer: when the reason is gone, the option is gone. The buyer's reason is a date, and when the date passes, so does the reason.
 
+17. *Sacrifice the plum for the peach* (第11计 李代桃僵). A worm came to the peach root, and the plum tree beside it took the bite and stiffened in its place. The peach lived.
+
+18. The far strike is the plum. Sell it, and the near strike is bought cheaper; the debit that remains is the whole risk. The plum sold is the tail beyond the far strike, the part of the move the buyer has agreed not to be paid for.
+
+19. Buy the 100 call, sell the 110 call, pay 3. The ticket states the count before the market moves: maximum loss 3, maximum gain 7, breakeven at 103. The win rate needed to break even is the debit divided by the width: three in ten.
+
+20. A long call bought at ten to one keeps the whole tail and needs one win in eleven. The spread needs three in ten, and a move to 103. Know which tree you are in. If the thesis is a doubling, the spread caps it; if the thesis is a move to 108, the single leg is a donation.
+
+21. Variation is choosing the tree after the thesis is known, never before. A spread sized like a lottery ticket, or a lottery ticket held like a spread, is not a variation. It is a muddle.
+
 ## Commentary
 
 The chapter on variation is the general's warning that rules without exceptions are for men who do not intend to survive contact. The seller's exceptions are the roads not to follow: the event day when the expected move is a lie, the line that would be right if only the wall had not moved overnight, the signal that arrives from a trusted source and is wrong anyway. Knowing the setup is the ground; knowing when the setup no longer applies is the variation, and it is the harder study.
@@ -49,6 +59,10 @@ The single rule of variation is that the reason ends the trade, not the price. A
 The buyer's five faults are easy to recognise because each is the seller's fault reversed. The seller's cowardice closes winners too early and never collects; the buyer's does the same to his rare winners, which is worse, because the rare winners are the whole of his income. The seller's delicacy of honour will not cut a broken spread; the buyer's will not admit that the event has come and gone. And the seller's loyalty to a morning opinion becomes, for the buyer, the roll: the expired call replaced with next month's, at a fresh debit, on a reason that has already been tested and failed.
 
 Variation for the buyer comes down to the time stop. The seller's trade ends when price crosses a line; the buyer's ends when the calendar crosses a date. Both stops are set in the temple, and both are broken the same way, by a man who decides on the tape that today is the exception.
+
+The eleventh stratagem is the buyer's chapter on variation because it is the choice of shape, and shape is where a buyer most often varies without knowing he has. The sacrifice is exact. A ten-wide spread bought for 3 has a maximum loss of 3, a maximum gain of 7 and a breakeven at 103, and needs to be right three times in ten. Pay 2.50 instead and it risks 2.50 to make 7.50, three to one, and needs one win in four. The single call bought at ten to one needs only one win in eleven, which looks easier until the event is named: the ten-to-one ticket needs something near a doubling, and the spread needs a move of three points. The spread has traded the tenfold tail for a breakeven a modest move can reach. Which is better depends on what the thesis actually predicts, not on which payoff is prettier. This is the arithmetic behind Mai's practice of risking one to make ten, as Schwager records it: the buyer who keeps the tail accepts many losses, and the one who sells it accepts that the doubling will be paid to someone else. Both are coherent. Mixing them is not.
+
+The seller has his own plum and peach, and they are the two legs of the broken spread. When the line is run through, the short leg is the plum: it is bought back at a loss, on the rule, and it takes the bite. The peach is the account, and the wing that stays behind to guard it. Cut the short leg, keep the wing. The sacrifice is chosen in the temple, when it is cheap to choose; on the tape every plum looks like a peach, and the trader who cannot give one up loses the orchard.
 
 ---
 

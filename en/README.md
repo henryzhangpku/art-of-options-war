@@ -12,7 +12,7 @@
 
 The general began in the temple, before a single soldier moved. Whoever counts more carefully wins; whoever counts less, loses; whoever does not count at all does not deserve to be surprised.
 
-The first three chapters are the count. What the campaign will be judged on, what it costs to keep an army in the field, and the one idea that turns the whole book: the highest skill is to win without fighting — to be paid without having to be right.
+The first three chapters are the count. What the campaign will be judged on, what it costs to keep an army in the field, and the seller's highest skill: to win without fighting, to be paid without having to be right. The buyer's highest skill is the other half of the general's art, to attack only where the enemy is unguarded, and it is the subject of Part V.
 
 1. [Counting in the Temple](chapter-01.md) — 《庙算》
 2. [The Cost of the Campaign](chapter-02.md) — 《作战》
@@ -22,7 +22,9 @@ The first three chapters are the count. What the campaign will be judged on, wha
 
 Chapters four to six are about shape. The old text says that the skilful fighter first makes himself invincible and then waits for the enemy to become vulnerable. Invincibility is a matter of defence and lies with you; vulnerability is a matter of the enemy and does not.
 
-For the premium seller, that is the entire trade. The defined-risk spread is the invincible position; the hedge into reversal is the response to the enemy's move; compounding is the force that a well-shaped position releases over time. For the buyer, the debit is the invincible position, because it is the whole risk paid in advance; the catalyst is the opening the enemy gives; and compounding is the arithmetic that punishes him for the gaps between rare wins.
+For the premium seller, the defined-risk spread is the invincible position; the hedge into reversal is the response to the enemy's move; compounding is the force that a well-shaped position releases over time.
+
+For the buyer, the debit is the invincible position, because it is the whole risk paid in advance. The catalyst is the opening the enemy gives, and the cheap price of fire is the vulnerability he waits for. Compounding is the arithmetic that punishes him for the gaps between rare wins.
 
 4. [The Unbeatable Position](chapter-04.md) — 《军形》
 5. [Force and the Four Quarters](chapter-05.md) — 《兵势》
