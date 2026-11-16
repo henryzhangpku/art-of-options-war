@@ -1,5 +1,7 @@
 # The Art of Options War
 
+*Sun Tzu for Both Sides of the Options Ticket · Second Edition*
+
 *Henry Zhang*
 
 [Read the whole book in one file](the-whole-book.md) · [中文版](../zh/README.md) · [Back to the repository](../README.md)
@@ -50,3 +52,21 @@ For the seller: the regimes to refuse, the stages of a trade from first entry to
 11. [The Nine Situations](chapter-11.md) — 《九地》
 12. [Fire](chapter-12.md) — 《火攻》
 13. [Spies](chapter-13.md) — 《用间》
+
+### Part V: Attack and Defence 《攻守》
+
+The general's thirteen chapters are done. They taught the seller to make himself unbeatable and the buyer to survive his own arithmetic. They did not answer the general's own question: when to defend, and when to attack. Seller and buyer are not two trades. They are the two banks of one river, and the option's price is the water between them. When the price of fire is high, the defender is paid to stand. When it is low, the attacker is paid to cross. The last five chapters are about reading the water.
+
+In Part V the buyer speaks first, and the seller answers.
+
+14. [The Two Banks](chapter-14.md) — 《两岸》
+15. [When to Attack](chapter-15.md) — 《攻》
+16. [The Attacker's Tax](chapter-16.md) — 《攻者之税》
+17. [The Wing in the Baggage Train](chapter-17.md) — 《辎重之翼》
+18. [The Turn of the Wheel](chapter-18.md) — 《攻守之轮》
+
+### Appendices
+
+- [A. The Thirty-Six Stratagems for the Buyer](appendix-a.md) — 《三十六计》
+- [B. The Underwriter's Ledger](appendix-b.md)
+- [C. Sources and Translations](appendix-c.md)

@@ -1,6 +1,8 @@
 # The Art of Options War · 期权兵法
 
-**Sun Tzu's thirteen chapters, in his order and on his subjects, read from both ends of a defined-risk options ticket: the seller of the credit spread and the buyer of the option.**
+**Sun Tzu's thirteen chapters, in his order and on his subjects, read from both ends of a defined-risk options ticket, the seller of the credit spread and the buyer of the option, and a fifth part on the general's own question: when to defend, and when to attack.**
+
+*Second edition.* It absorbs two companion books, *The Options Underwriter* and *The Counted Trade*. The seller now reads the spread as an insurer reads a policy, and the buyer carries the Thirty-Six Stratagems, which stand whole in an appendix.
 
 <img src="cover.jpg" alt="The Art of Options War" width="320">
 
@@ -12,7 +14,7 @@ Every chapter reads the general twice. **The Seller** comes first: the credit sp
 
 Numbered aphorisms with a commentary, in the manner of the Giles translation. No forecasts, no signals, no performance claims.
 
-The companion book, [The Options Underwriter · 期权承保](https://github.com/henryzhangpku/options-underwriter), reads the selling side as running an insurance company — policy, price, reserves, claims, catastrophe. Same format, different ideas: war here, insurance there. Both are free.
+Part V, *Attack and Defence* 《攻守》, comes after *Spies*, because a trader cannot choose a stance until he has read what the fire costs. In it the buyer speaks first: the two banks of one river, the five grounds of attack, the tax most attackers pay, buying as insurance, and when to change sides.
 
 ## Read it
 
@@ -29,14 +31,14 @@ The companion book, [The Options Underwriter · 期权承保](https://github.com
 | English | [The Art of Options War.pdf](https://pub-aa4f5218b3ce4b3abd876680f0ff5545.r2.dev/books/art-of-options-war/The-Art-of-Options-War.pdf) | [.epub](https://pub-aa4f5218b3ce4b3abd876680f0ff5545.r2.dev/books/art-of-options-war/The-Art-of-Options-War.epub) |
 | 中文 | [期权兵法.pdf](https://pub-aa4f5218b3ce4b3abd876680f0ff5545.r2.dev/books/art-of-options-war/%E6%9C%9F%E6%9D%83%E5%85%B5%E6%B3%95.pdf) | [.epub](https://pub-aa4f5218b3ce4b3abd876680f0ff5545.r2.dev/books/art-of-options-war/%E6%9C%9F%E6%9D%83%E5%85%B5%E6%B3%95.epub) |
 
-Built from this same text, so the file and the repository cannot disagree. No
+These files are still the **first edition**; they will be rebuilt from this text when the second edition is released, and the first edition will stay downloadable from a release. Built from the same source as the repository, so the two cannot disagree. No
 email required for any of it.
 
 Both editions were written by hand. The Chinese is not a machine translation of the English, and the English is not a translation of the Chinese — they are the same book written twice.
 
 Prefer it in your inbox? The PDF and EPUB, English and 中文, are also free in the [Quant Signals shop](https://shop.quantsignals.xyz/products/the-art-of-options-war-free-ebook-english).
 
-## The thirteen chapters
+## The chapters
 
 | | | | |
 |---|---|---|---|
@@ -45,12 +47,15 @@ Prefer it in your inbox? The PDF and EPUB, English and 中文, are also free in 
 | **Part III — The March** | 7. [Manoeuvring](en/chapter-07.md) 《军争》 | 8. [Variation](en/chapter-08.md) 《九变》 | 9. [The March](en/chapter-09.md) 《行军》 |
 | **Part IV — Ground and Fire** | 10. [Terrain](en/chapter-10.md) 《地形》 | 11. [The Nine Situations](en/chapter-11.md) 《九地》 | 12. [Fire](en/chapter-12.md) 《火攻》 |
 | | 13. [Spies](en/chapter-13.md) 《用间》 | | |
+| **Part V — Attack and Defence** | 14. [The Two Banks](en/chapter-14.md) 《两岸》 | 15. [When to Attack](en/chapter-15.md) 《攻》 | 16. [The Attacker's Tax](en/chapter-16.md) 《攻者之税》 |
+| | 17. [The Wing in the Baggage Train](en/chapter-17.md) 《辎重之翼》 | 18. [The Turn of the Wheel](en/chapter-18.md) 《攻守之轮》 | |
+| **Appendices** | A. [The Thirty-Six Stratagems](en/appendix-a.md) 《三十六计》 | B. [The Underwriter's Ledger](en/appendix-b.md) | C. [Sources](en/appendix-c.md) |
 
-The order is the argument: count before you fight, know what a campaign costs, win without needing to be right — or be right cheaply when you must be — make yourself unbeatable before you look for a chance, divide your force, read the ground, survive fire, and, last, value information above every other weapon.
+The order is the argument: count before you fight, know what a campaign costs, win without needing to be right — or be right cheaply when you must be — make yourself unbeatable before you look for a chance, divide your force, read the ground, survive fire, value information above every other weapon, and only then choose whether today is a day to defend or to attack.
 
 ## Read one chapter a day
 
-Then read them again in the general's order. The book is short on purpose: thirteen chapters, about a week and a half at one a day, and the second pass is where the order starts to do the work.
+Then read them again in the general's order. Eighteen chapters, about two and a half weeks at one a day, and the second pass is where the order starts to do the work.
 
 ## A note on what this is
 
@@ -62,8 +67,7 @@ Henry Zhang · 张恒 — [officialhenryzhang.com](https://www.officialhenryzhan
 
 The ideas the commentary rests on are the ones I actually trade: size over frequency, one side first on a trend read, hedge into a condor only when hurt, cut the short leg and keep the wing; and on the buyer's side, a dated catalyst, a debit small enough to lose many times over, and a time stop as firm as any price stop.
 
-- **Also by the author** — [The Options Underwriter · 期权承保](https://github.com/henryzhangpku/options-underwriter), the same trade read as underwriting: thirteen chapters on the policy, the price, the book, the claims, the reserves and the catastrophe.
-- **Also by the author** — [The Counted Trade · 算而后战](https://github.com/henryzhangpku/the-counted-trade), the buyer's side at full length: the Thirty-Six Stratagems read for the buyer of asymmetric options, with Jamie Mai's practice as a thread.
+- **Absorbed into this edition** — [The Options Underwriter · 期权承保](https://github.com/henryzhangpku/options-underwriter) and [The Counted Trade · 算而后战](https://github.com/henryzhangpku/the-counted-trade). Their first editions stay free where they are.
 - **This book, on the reading app** — [Henry Zhang Books on the App Store](https://apps.apple.com/app/id6792229566), where it reads as a book with the bilingual toggle and the audiobook narration.
 - **Notes and letters** — [henryzhang.substack.com](https://henryzhang.substack.com/)
 
