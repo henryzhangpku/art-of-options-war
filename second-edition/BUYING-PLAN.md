@@ -101,7 +101,7 @@ None of this makes buying profitable. It removes the ways of losing that have no
 
 Every option has two owners, and every premium is paid by one to the other. The chapter sets the seller and the buyer on opposite banks of one river and shows that each is the other's provisions. The seller forages on the buyer's need for protection and love of direction. The buyer forages on the seller's comfort after a long calm. The line of battle is implied volatility. Above the fire the market goes on to deliver, the defender is paid. Below it, the attacker is. The seller's spread is itself a short option and a long one: every seller in this book has been a buyer since Chapter 4, through the wing. The chapter ends the false choice between being "a seller" and "a buyer." A trader chooses a stance for a price, not an identity for a career.
 
-### 15. When to Attack 《攻》 *(drafted in full: [chapter-15-when-to-attack.md](chapter-15-when-to-attack.md))*
+### 15. When to Attack 《攻》 *(written: [en/chapter-15.md](../en/chapter-15.md))*
 
 The general's lines on attack, read for the buyer: attack only unguarded places, and only with an advantage you can name as a price. Five grounds on which the buyer may attack:
 
