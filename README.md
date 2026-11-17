@@ -34,7 +34,7 @@ email required for any of it.
 
 Both editions were written by hand. The Chinese is not a machine translation of the English, and the English is not a translation of the Chinese — they are the same book written twice.
 
-Prefer it in your inbox? The PDF and EPUB, English and 中文, are also free in the [Quant Signals shop](https://shop.quantsignals.xyz/products/the-art-of-options-war-free-ebook-english).
+Prefer an app? All four books read free, in English and 中文, in the [Henry Zhang Books app](https://apps.apple.com/app/id6792229566) for iPhone and iPad.
 
 ## The thirteen chapters
 
