@@ -34,7 +34,7 @@ Part V, *Attack and Defence* 《攻守》, comes after *Spies*, because a trader
 These files are still the **first edition**; they will be rebuilt from this text when the second edition is released, and the first edition will stay downloadable from a release. Built from the same source as the repository, so the two cannot disagree. No
 email required for any of it.
 
-Both editions were written by hand. The Chinese is not a machine translation of the English, and the English is not a translation of the Chinese — they are the same book written twice. The 中文 second edition is complete through Chapter 13 and the appendices; the Chinese of Part V (Chapters 14–18) is being written by hand, and until it is, those pages link to the English.
+Both editions were written by hand. The Chinese is not a machine translation of the English, and the English is not a translation of the Chinese — they are the same book written twice. The 中文 second edition is complete; the Chinese of Part V (Chapters 14–18) is a first draft, still to be checked by the author.
 
 Prefer to read it as a book? It's free in the [Henry Zhang Books app](https://apps.apple.com/app/id6792229566) too, with the English and 中文 toggle.
 

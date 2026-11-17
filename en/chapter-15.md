@@ -99,7 +99,9 @@ So the long night is not a raid. It is a garrison, and it must be funded for the
 **The shape of the attack** follows from what is known:
 
 - **Single option:** when only the direction is known, because its payoff grows with the move.
+
 - **Debit spread:** when the size of the move can be roughly estimated. It sells the far strike, the part of the move he does not expect, to pay for the near one. That lowers the debit, and so the win rate he needs: pay 2 for a spread 10 wide, and he must be right one time in five, not one in ten. It gives up the long night in exchange.
+
 - **Straddle:** when only the date is known.
 
 No shape is an edge. Each is a way of matching what he pays for to what he knows, so that he is not charged for a guess he never made.
