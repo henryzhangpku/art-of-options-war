@@ -31,7 +31,7 @@ Part V, *Attack and Defence* 《攻守》, comes after *Spies*, because a trader
 | English | [The Art of Options War.pdf](https://pub-aa4f5218b3ce4b3abd876680f0ff5545.r2.dev/books/art-of-options-war/The-Art-of-Options-War.pdf) | [.epub](https://pub-aa4f5218b3ce4b3abd876680f0ff5545.r2.dev/books/art-of-options-war/The-Art-of-Options-War.epub) |
 | 中文 | [期权兵法.pdf](https://pub-aa4f5218b3ce4b3abd876680f0ff5545.r2.dev/books/art-of-options-war/%E6%9C%9F%E6%9D%83%E5%85%B5%E6%B3%95.pdf) | [.epub](https://pub-aa4f5218b3ce4b3abd876680f0ff5545.r2.dev/books/art-of-options-war/%E6%9C%9F%E6%9D%83%E5%85%B5%E6%B3%95.epub) |
 
-These files are still the **first edition**; they will be rebuilt from this text when the second edition is released, and the first edition will stay downloadable from a release. Built from the same source as the repository, so the two cannot disagree. No
+These are the **second edition**. The first edition stays downloadable from the [v1-first-edition release](https://github.com/henryzhangpku/art-of-options-war/releases/tag/v1-first-edition). Built from the same source as the repository, so the two cannot disagree. No
 email required for any of it.
 
 Both editions were written by hand. The Chinese is not a machine translation of the English, and the English is not a translation of the Chinese — they are the same book written twice. The 中文 second edition is complete; the Chinese of Part V (Chapters 14–18) is a first draft, still to be checked by the author.
