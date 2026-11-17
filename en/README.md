@@ -1,5 +1,7 @@
 # The Art of Options War
 
+*Sun Tzu for Both Sides of the Options Ticket · Second Edition*
+
 *Henry Zhang*
 
 [Read the whole book in one file](the-whole-book.md) · [中文版](../zh/README.md) · [Back to the repository](../README.md)
@@ -12,7 +14,7 @@
 
 The general began in the temple, before a single soldier moved. Whoever counts more carefully wins; whoever counts less, loses; whoever does not count at all does not deserve to be surprised.
 
-The first three chapters are the count. What the campaign will be judged on, what it costs to keep an army in the field, and the one idea that turns the whole book: the highest skill is to win without fighting — to be paid without having to be right.
+The first three chapters are the count. What the campaign will be judged on, what it costs to keep an army in the field, and the seller's highest skill: to win without fighting, to be paid without having to be right. The buyer's highest skill is the other half of the general's art, to attack only where the enemy is unguarded, and it is the subject of Part V.
 
 1. [Counting in the Temple](chapter-01.md) — 《庙算》
 2. [The Cost of the Campaign](chapter-02.md) — 《作战》
@@ -22,7 +24,9 @@ The first three chapters are the count. What the campaign will be judged on, wha
 
 Chapters four to six are about shape. The old text says that the skilful fighter first makes himself invincible and then waits for the enemy to become vulnerable. Invincibility is a matter of defence and lies with you; vulnerability is a matter of the enemy and does not.
 
-For the premium seller, that is the entire trade. The defined-risk spread is the invincible position; the hedge into reversal is the response to the enemy's move; compounding is the force that a well-shaped position releases over time. For the buyer, the debit is the invincible position, because it is the whole risk paid in advance; the catalyst is the opening the enemy gives; and compounding is the arithmetic that punishes him for the gaps between rare wins.
+For the premium seller, the defined-risk spread is the invincible position; the hedge into reversal is the response to the enemy's move; compounding is the force that a well-shaped position releases over time.
+
+For the buyer, the debit is the invincible position, because it is the whole risk paid in advance. The catalyst is the opening the enemy gives, and the cheap price of fire is the vulnerability he waits for. Compounding is the arithmetic that punishes him for the gaps between rare wins.
 
 4. [The Unbeatable Position](chapter-04.md) — 《军形》
 5. [Force and the Four Quarters](chapter-05.md) — 《兵势》
@@ -48,3 +52,21 @@ For the seller: the regimes to refuse, the stages of a trade from first entry to
 11. [The Nine Situations](chapter-11.md) — 《九地》
 12. [Fire](chapter-12.md) — 《火攻》
 13. [Spies](chapter-13.md) — 《用间》
+
+### Part V: Attack and Defence 《攻守》
+
+The general's thirteen chapters are done. They taught the seller to make himself unbeatable and the buyer to survive his own arithmetic. They did not answer the general's own question: when to defend, and when to attack. Seller and buyer are not two trades. They are the two banks of one river, and the option's price is the water between them. When the price of fire is high, the defender is paid to stand. When it is low, the attacker is paid to cross. The last five chapters are about reading the water.
+
+In Part V the buyer speaks first, and the seller answers.
+
+14. [The Two Banks](chapter-14.md) — 《两岸》
+15. [When to Attack](chapter-15.md) — 《攻》
+16. [The Attacker's Tax](chapter-16.md) — 《攻者之税》
+17. [The Wing in the Baggage Train](chapter-17.md) — 《辎重之翼》
+18. [The Turn of the Wheel](chapter-18.md) — 《攻守之轮》
+
+### Appendices
+
+- [A. The Thirty-Six Stratagems for the Buyer](appendix-a.md) — 《三十六计》
+- [B. The Underwriter's Ledger](appendix-b.md)
+- [C. Sources and Translations](appendix-c.md)

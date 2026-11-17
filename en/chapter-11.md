@@ -44,6 +44,16 @@
 
 19. Desperate ground does not exist for the buyer. His maximum loss was paid on the first day. This is the buyer's one great advantage, and he loses it only by adding to a loser.
 
+20. *Remove the ladder when the enemy has climbed* (第28计 上屋抽梯). Invite a man onto the roof, then take the ladder away. He goes forward or he leaps; retreat has been priced out.
+
+21. The buyer builds his ladder before he climbs: a first tranche, then rungs at prices written in advance. The rungs are confirmation levels, not consolation levels. They are climbed when the thesis confirms, never because the price has fallen.
+
+22. The whole ladder is measured against the maximum loss before the first step. An add that would breach the budget is a rung nailed outside the house.
+
+23. Once on the roof, the ladder comes away. No add for boredom, no add for a headline, no add because the first tranche is red. Averaging down is not a ladder. It is a rope tied to the wrong beam, and it is the only road by which the buyer reaches desperate ground.
+
+24. The enemy on the roof is not the market. It is the part of the trader that wants a second chance at a better price.
+
 ## Commentary
 
 The nine situations are read here as the nine stages of a single trade, and the reading holds surprisingly well. The open is dispersive ground — the trader is at home, fully armed, and the danger is that he spends everything on the first opinion. The middle of a working trade is serious ground, where the only instruction is to let the plunder come in: theta pays a seller who is not wrong, hour by hour, and the discipline is simply to do nothing. Difficult ground is the fluctuation, which every position passes through before it resolves; the fourth quarter is the reserve that lets it be endured.
@@ -53,6 +63,10 @@ Hemmed-in and desperate ground are the two the seller must have already decided 
 "Throw your soldiers into positions whence there is no escape" is the least intuitive line in the chapter and the most important. The seller does not set his stop on the tape, where every price argues with it. He sets it in the temple, before the order, where it is an arithmetic and not a feeling. When the market reaches it, there is nothing to decide, and the absence of a decision is the whole of the discipline.
 
 For the buyer the nine grounds lean the other way. Desperate ground, which the seller must have planned for, does not exist for him: the worst case was paid in full on the day he entered. His danger is the long middle — serious ground, where the option bleeds while the catalyst approaches, and difficult ground, where the move begins and stalls. The buyer who knows the daily rent in advance can endure both. The buyer who discovers it on the screen will either sell at the worst moment or buy more to lower his cost, and so build for himself the one ground he could never otherwise have reached.
+
+The twenty-eighth stratagem is the buyer's answer to that danger, and it reads the general's "positions whence there is no escape" from the buyer's side. The old story removes the ladder so that the man on the roof commits to the route he chose. The buyer builds his ladder in the opposite order: it is placed before entry and taken away after. The first tranche is small because it is a step, not a verdict. The adds are written at confirmation levels, where the thesis has shown something, and they are funded from the original budget, not from a fresh one. That last clause is the roof. If the budget for the whole position is fixed before the first contract, every add draws against the same account, and a ladder that exceeds it is not commitment but a second, larger trade smuggled in under the first. The budget does not move because the first tranche is losing; that is precisely when a new rung feels most deserved.
+
+So the two sides of the ticket arrive at the same discipline from opposite ends of the chapter. The seller sets his stop in the temple so that desperate ground holds no decision. The buyer pulls up his ladder so that desperate ground cannot be reached at all. Both have taken a choice away from the man on the tape, and both are safer for it.
 
 ---
 
