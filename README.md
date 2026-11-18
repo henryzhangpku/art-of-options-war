@@ -34,7 +34,7 @@ Part V, *Attack and Defence* 《攻守》, comes after *Spies*, because a trader
 These are the **second edition**. The first edition stays downloadable from the [v1-first-edition release](https://github.com/henryzhangpku/art-of-options-war/releases/tag/v1-first-edition). Built from the same source as the repository, so the two cannot disagree. No
 email required for any of it.
 
-Both editions were written by hand. The Chinese is not a machine translation of the English, and the English is not a translation of the Chinese — they are the same book written twice. The 中文 second edition is complete; the Chinese of Part V (Chapters 14–18) is a first draft, still to be checked by the author.
+The two editions were written separately. The Chinese is written as Chinese, not machine-translated from the English, and the English is not a translation of the Chinese — they are the same book written twice, and both second editions are complete.
 
 Prefer to read it as a book? It's free in the [Henry Zhang Books app](https://apps.apple.com/app/id6792229566) too, with the English and 中文 toggle.
 
