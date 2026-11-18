@@ -16,7 +16,7 @@
 
 6. High fire that has peaked and begun to fall: the defender's season. The buyers who arrived in the panic have paid for the storm in full, and the storm is leaving.
 
-7. The hour before the number: neither. Whoever moves first is charged for the information the other side is about to receive for free. Stand on neither bank. Watch from across the river.
+7. The hour before the number: neither. Stand on neither bank. Watch from across the river.
 
 8. *Make the host and the guest exchange roles* (第30计 反客为主). The guest comes in by the side door, stays for supper, and by morning is answering the door as host.
 
@@ -58,7 +58,7 @@ The insurer's cycle and the trader's wheel are one wheel, seen by two trades ove
 
 The thirtieth stratagem answers the question every trader with both stances must face: who decides when to turn? Not the trader on the tape, who has a position and a mood. The process decides. The guest who came in as a checklist must end as the host, governing every trade, or be shown the door the first time a trade is urgent. The weekly count is where the reversal is made or lost: how many trades, the expectancy after costs, the deepest drawdown, how many rules were broken. A week with a profit and three broken rules is not a good week for the process, whatever the statement says. Written beside the profit and loss, the broken rules show whether the result came from the method or from the departure. That is the journal, the surviving spy of Chapter 13, and it is the only one qualified to say whether a stance has been paid. The turn of the wheel is therefore a scheduled decision, made in the temple, on evidence, and never on the day a rule was broken.
 
-One rule does not turn. A trader with one account and both stances must never hold both on the same direction. A long call and a short put on one name are one bet, however the legs are labelled. A long wing kept after a cut and a credit spread sold the same way are one bet. Chapter 7 said it for the seller's day and Chapter 15 said it for the buyer's attack; it is said a third time here because a trader who has learned to stand on both banks is the one most tempted to stand on both at once, and to call it balance.
+One rule does not turn. A trader with one account and both stances must never hold both on the same direction. A long call and a short put on one name are one bet, however the legs are labelled. A long wing kept after a cut and a credit spread sold the same way are one bet. Chapter 7 said it for the seller's day and Chapter 15 said it for the buyer's attack; it is said again here because a trader who has learned to stand on both banks is the one most tempted to stand on both at once, and to call it balance.
 
 The oldest insurance houses are centuries old, and none of them lasted by being right about the weather. They lasted by writing business they could price, refusing business they could not, keeping reserves through good years, paying claims through bad ones, and reviewing their ledgers on a calendar rather than in the heat of a loss. None of it predicts the market. All of it is what lets the business keep doing what this book began with: being paid to cover a risk, a thousand times, and still being open on the day it is wrong. The buyer's version of the hundred-year company is the same sentence turned around: paying for a right, a thousand times, small enough to be wrong most of them, and still present on the day the door opens.
 

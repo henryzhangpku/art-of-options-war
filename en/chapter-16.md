@@ -10,7 +10,7 @@
 
 3. Most attacks fail. Not because buyers are foolish, but because a tax is levied on the attack before it begins, and most attackers never count it.
 
-4. The tax has a name. The variance premium is the seller's wage, and therefore the buyer's tax: on most days and in most names, the option charges for more fire than comes.
+4. The tax has a name: the variance premium, the seller's wage of Chapter 6, read from the buyer's bank.
 
 5. It is paid in four ways, and a fifth that pays twice.
 
@@ -56,7 +56,7 @@
 
 ## Commentary
 
-The general's chapter on the cost of war is about an army maintained at a distance, and the buyer's army is always at a distance. He pays now, in full, for a battle that may come in a week, a month, or not at all. That is the attacker's position by construction, and it carries a tax. The variance premium, the habit of option buyers paying more for protection than the moves turn out to cost, is the seller's wage when read from his bank. Read from the buyer's, it is a levy on every attack, collected before the first shot.
+The general's chapter on the cost of war is about an army maintained at a distance, and the buyer's army is always at a distance. He pays now, in full, for a battle that may come in a week, a month, or not at all. That is the attacker's position by construction, and it carries a tax. The variance premium, which Chapter 6 counted as the seller's wage, reads from the buyer's bank as a levy on every attack, collected before the first shot.
 
 The four taxes were spread across the thirteen chapters of this book, one or two at a time: rent in Chapter 2, the spike in Chapters 10 and 12, the late entry in Chapters 6 and 7, size in Chapter 4. Set out together they are one argument, and the argument explains why most buyers lose without any of them being wrong about the market. A buyer can be right about direction and lose to rent, because the move came after his option expired. He can be right about direction and timing and lose to the spike, because he paid for a bigger move than came. He can be right about everything and lose to size, because the run of losses before his winner took the account below the size at which the winner could repair it. None of these is a forecasting error. Each is a tax paid without counting it.
 
