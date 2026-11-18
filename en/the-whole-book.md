@@ -148,7 +148,7 @@ The first stratagem is placed here because the hope trade is the buyer's first e
 
 ## The Buyer
 
-20. The buyer pays the rent. Let him know it before he signs: the daily decay, multiplied by the days he expects to wait, is the price of his patience.
+20. The buyer pays the rent. Let him know it before he signs: the daily decay, multiplied by the days he expects to wait, is the price of his patience, and more, because the decay quickens near the end.
 
 21. For the buyer, the long siege is the debit held after the catalyst has passed. The event came, the move did not, and what remains is an option paying rent on a reason that has already expired.
 
@@ -356,7 +356,7 @@ The buyer has the general's invincibility for free: his worst day is the debit, 
 
 The firewood is the buyer's version of the limit, and the arithmetic is easy, which is why it is so often skipped. A 100 call bought and a 110 call sold for a debit of 3 has a maximum loss of 300 and a maximum gain of 700. If the risk budget is 1,000, three spreads cost 900 and a fourth would cost 1,200. The count is three. Rounding up to four does not make the risk 1,000. It makes the plan a fiction.
 
-Mai's "risk one to make ten" is often quoted as though the ten were the point. In Schwager's interview the one comes first, and it is small. His bets were expected to fail, most of them, and a book built that way has to survive a run of failures to collect the one that does not. Ten bets at a tenth of the book each, all lost, is the whole book. That is not convexity. It is ten chances to be finished before the thesis arrives.
+Mai's practice, risking a little to make a lot, is often read as though the lot were the point. The little comes first, and it is small. His bets were expected to fail, most of them, and a book built that way has to survive a run of failures to collect the one that does not. Ten bets at a tenth of the book each, all lost, is the whole book. That is not convexity. It is ten chances to be finished before the thesis arrives.
 
 So the order of operations is the same at both ends of the ticket. The seller fixes the size so that a maximum loss is boring; the buyer fixes it so that a run of total losses is boring. Only then does either of them look for a line, or a door.
 
@@ -588,15 +588,13 @@ In the market, the march is the trading day. Most accounts are not lost to one g
 
 25. Sell everything at the first target and the buyer has bought a wage, not an asymmetry. Sell nothing and he holds a lottery ticket with a thesis attached. The remainder, released on a date and not on a feeling, is the only part that can pay for the losers.
 
-26. Do not stack the same direction in two costumes. A call bought and a put sold on the same name are one bet; so is a call bought beside stock already owned. Count the net direction.
-
-27. Do not pursue an enemy who simulates flight. Do not buy the reversal that has not confirmed. Do not buy the option after the gap; buy before it, or not at all.
+26. Do not pursue an enemy who simulates flight. Do not buy the reversal that has not confirmed. Do not buy the option after the gap; buy before it, or not at all.
 
 ## Commentary
 
 Manoeuvring is the chapter about frequency, and frequency is a risk dial that most traders do not know they are turning. The old general loses his baggage by marching too fast; the seller loses his fourth quarter by trading too often. Every additional entry in a day is a levy on the reserve that was supposed to let an open position breathe. By noon the fast marcher is full size in one direction with nothing left for the hedge, and the first ordinary fluctuation closes him out.
 
-The first line of the chapter is the oldest statement of an idea that has since travelled far. 以迂为直, make the devious route the direct: take the long way round, accept a cost or a delay now, and arrive before the enemy who marched straight. Mark Spitznagel's *The Dao of Capital* (2013) is built on this idea, under a German name, the *Umweg*, the roundabout path. His name for it comes from the Austrian economists. The idea is Sun Tzu's, and this is where he wrote it down, in the chapter on 军争, the contest of armies. Spitznagel applies it to capital across decades: the investor who accepts small losses and an indirect route to arrive in a stronger position later. This book applies it to the single trade and the single season: the seller whose hedge turns a losing morning into a flat afternoon, the small claim settled early so that the account reaches next year intact. The horizons are different and the source is the same, and it should be credited to the general.
+The first line of the chapter states an idea that has since travelled far. 以迂为直, make the devious route the direct: take the long way round, accept a cost or a delay now, and arrive before the enemy who marched straight. Mark Spitznagel's *The Dao of Capital* (2013) is built on this idea, under a German name, the *Umweg*, the roundabout path. He takes the name from the Austrian economists, and he traces the idea himself to Laozi and to Chinese strategy. One of its clearest early statements is here, in Sun Tzu's chapter on 军争, the contest of armies. Spitznagel applies it to capital across decades: the investor who accepts small losses and an indirect route to arrive in a stronger position later. This book applies it to the single trade and the single season: the seller whose hedge turns a losing morning into a flat afternoon, the small claim settled early so that the account reaches next year intact. The horizons differ; the line in the general's chapter is where this book found it.
 
 The insurer reads the same chapter as claims handling. Insurers that fail usually fail in claims before they fail in capital. Delaying, disputing and hoping a claim goes away feels cheaper in the moment and is always more expensive in the end. The seller's version is the tested spread held past its stop because the market *should* turn: the argument is with a counterparty that does not listen, and the cost of losing it grows with every point the price travels into the policy. The adjustment that is a legitimate part of claims handling, rather than a new bet, is the condor built in the moment of injury: when one side is tested, the other side of the same index is usually far away and cheap to write, and the new premium reduces the cost of the claim. It is written because one side is already in claim, not as a habit, which is why the rule is to hedge only when hurt.
 
@@ -670,7 +668,7 @@ The buyer's five faults are easy to recognise because each is the seller's fault
 
 Variation for the buyer comes down to the time stop. The seller's trade ends when price crosses a line; the buyer's ends when the calendar crosses a date. Both stops are set in the temple, and both are broken the same way, by a man who decides on the tape that today is the exception.
 
-The eleventh stratagem is the buyer's chapter on variation because it is the choice of shape, and shape is where a buyer most often varies without knowing he has. The sacrifice is exact. A ten-wide spread bought for 3 has a maximum loss of 3, a maximum gain of 7 and a breakeven at 103, and needs to be right three times in ten. Pay 2.50 instead and it risks 2.50 to make 7.50, three to one, and needs one win in four. The single call bought at ten to one needs only one win in eleven, which looks easier until the event is named: the ten-to-one ticket needs something near a doubling, and the spread needs a move of three points. The spread has traded the tenfold tail for a breakeven a modest move can reach. Which is better depends on what the thesis actually predicts, not on which payoff is prettier. This is the arithmetic behind Mai's practice of risking one to make ten, as Schwager records it: the buyer who keeps the tail accepts many losses, and the one who sells it accepts that the doubling will be paid to someone else. Both are coherent. Mixing them is not.
+The eleventh stratagem is the buyer's chapter on variation because it is the choice of shape, and shape is where a buyer most often varies without knowing he has. The sacrifice is exact. A ten-wide spread bought for 3 has a maximum loss of 3, a maximum gain of 7 and a breakeven at 103, and needs to be right three times in ten. Pay 2.50 instead and it risks 2.50 to make 7.50, three to one, and needs one win in four. The single call bought at ten to one needs only one win in eleven, which looks easier until the event is named: the ten-to-one ticket needs something near a doubling, and the spread needs a move of three points. The spread has traded the tenfold tail for a breakeven a modest move can reach. Which is better depends on what the thesis actually predicts, not on which payoff is prettier. This is the arithmetic behind risking a little to make a lot, which Chapter 4 read: the buyer who keeps the tail accepts many losses, and the one who sells it accepts that the doubling will be paid to someone else. Both are coherent. Mixing them is not.
 
 The seller has his own plum and peach, and they are the two legs of the broken spread. When the line is run through, the short leg is the plum: it is bought back at a loss, on the rule, and it takes the bite. The peach is the account, and the wing that stays behind to guard it. Cut the short leg, keep the wing. The sacrifice is chosen in the temple, when it is cheap to choose; on the tape every plum looks like a peach, and the trader who cannot give one up loses the orchard.
 
@@ -694,7 +692,7 @@ The seller has his own plum and peach, and they are the two legs of the broken s
 
 8. The seller reads the trend by its structure, not by his hope. A higher low held is a market that has not changed its mind. A higher low broken is a market that has, whatever the last candle says.
 
-9. When the ATR trail flips, the trend has spoken. Sell puts beneath a market that ratchets up. Sell calls above a market that ratchets down. Sell neither while it is deciding.
+9. When the ATR trail flips, the trend has spoken, as this book reads trend. Sell puts beneath a market that ratchets up. Sell calls above a market that ratchets down. Sell neither while it is deciding.
 
 10. Dust rising in a high column is the sign of chariots; dust low and wide, of infantry. Volume surging at a level is the sign of a wall; volume dying into a move is the sign of a move that has run out of enemy.
 
@@ -718,7 +716,7 @@ The seller has his own plum and peach, and they are the two legs of the broken s
 
 19. The buyer reads the same signs as the seller and acts on the opposite ones. A pivot broken is the seller's warning and the buyer's invitation.
 
-20. When the ATR trail flips, the buyer may follow it: calls behind a market that has turned up, puts behind one that has turned down. Neither while it is deciding; deciding is where rent is paid for nothing.
+20. When the ATR trail flips, the buyer may follow it, as a reading of structure and not a signal: calls behind a market that has turned up, puts behind one that has turned down. Neither while it is deciding; deciding is where rent is paid for nothing.
 
 21. Volume dying into a quiet range is the sign of a coiled market. That is the buyer's high ground: the move nobody is paying for yet.
 
@@ -922,7 +920,7 @@ So the two sides of the ticket arrive at the same discipline from opposite ends 
 
 13. Run the storm in advance. Ask: if the index gaps five percent overnight, what does the book owe in the morning? If it falls ten percent in a week? Write the answers while the sun is shining. If the paper storm closes the account, the size is wrong today, not on the day it comes.
 
-14. A stop is a plan for an ordinary day. In a catastrophe the market opens beyond it. Only the wing is guaranteed to be where you left it.
+14. A stop is a plan for an ordinary day. In a catastrophe the market opens beyond it. Only the wing is still where you left it.
 
 15. The worst storms come after the longest calm, because the calm is when everyone writes the most cover at the thinnest premium. Do not try to predict the catastrophe. Its date is unknowable. Its existence is certain.
 
@@ -1048,7 +1046,7 @@ The insurer gives the surviving spy a single number to report. Take the premium 
 
 For the buyer the inward spy matters most. Implied volatility is the price of the right he wants, and the whole of his edge, where it exists, is a gap between that price and the move that follows. The journal matters as much to him as to the seller, and for a sharper reason: a buyer's results are dominated by rare large wins, and memory keeps those and drops the long run of small losses that paid for them. Only a written count can say whether the one paid for the forty.
 
-The thirty-third stratagem is the buyer's way of recruiting the seller's own spy. The stratagem is not bribery. It is making the other side's judgement do your work. The chain is a record of what other people paid to be afraid of, and its use is to show where that fear is priced too high or too low. Its deepest report is the one Mai read, as he described it to Schwager: a two-humped world, a court or a regulator that can only rule one way or the other, priced as one hump. The spy's map is wrong at its edges, and that is where it is read.
+The thirty-third stratagem is the buyer's way of recruiting the seller's own spy. The stratagem is not bribery. It is making the other side's judgement do your work. The chain is a record of what other people paid to be afraid of, and its use is to show where that fear is priced too high or too low. Its deepest report is the two-humped world priced as one hump, which Chapter 3 read with Mai: the spy's map is wrong at its edges, and that is where it is read.
 
 The last verse of the general's thirteen is the book's own sentence about itself. Thirteen chapters, in a general's order, on a single trade: count before you fight; know the cost of a campaign; win without needing to be right; be unbeatable before you look for a chance; divide your force in four; respond, do not predict; march slowly and cut fast; know the roads not to take; read the signs; refuse the wrong ground; know which of the nine situations you are in; survive fire; and keep the spy who never lies. None of it will make you right. It makes being wrong survivable, and survival is the only thing that compounds.
 
@@ -1812,7 +1810,7 @@ The enemy most often tricked is yourself. Read them in their order, for the orde
 
 4. The distant ally is the trade that shares no catalyst with the rest: another driver, another date, another mechanism. It is a different reason, not a different ticker.
 
-*In this book:* Chapter 5, where the insurer calls it accumulation.
+*In this book:* the idea, not the number, appears in Chapter 5, where the insurer calls it accumulation.
 
 ##### 24. Borrow the Road to Conquer Guo · 假道伐虢 (第24计)
 
@@ -1826,7 +1824,7 @@ The enemy most often tricked is yourself. Read them in their order, for the orde
 
 4. Two calendars, two sets of filters, two tests, two journals. March each army on its own road and borrow nothing but the discipline.
 
-*In this book:* the seller's index spreads of Parts I to IV and the buyer's single-name attacks of Part V are two such roads.
+*In this book:* the idea, not the number: the seller's index spreads of Parts I to IV and the buyer's single-name attacks of Part V are two such roads.
 
 #### Set V: Stratagems for Gaining Ground 《并战计》
 
@@ -1842,7 +1840,7 @@ The enemy most often tricked is yourself. Read them in their order, for the orde
 
 4. When the beam is judgement, no filter cut from it will carry the same load. The test of Mai's quiet, in Chapter 15, is that beam removed.
 
-*In this book:* Chapter 15.
+*In this book:* the idea, not the number, appears in Chapter 15.
 
 ##### 26. Point at the Mulberry, Curse the Locust · 指桑骂槐 (第26计)
 
@@ -1856,7 +1854,7 @@ The enemy most often tricked is yourself. Read them in their order, for the orde
 
 4. A label that claims less than the evidence is honest. A label that claims more moves real risk onto a beam nobody has tested.
 
-*In this book:* the rule of every chapter: no forecasts, no signals, no performance claims.
+*In this book:* the idea, not the number, is the rule of every chapter: no forecasts, no signals, no performance claims.
 
 ##### 27. Feign Madness but Keep Your Balance · 假痴不癫 (第27计)
 
@@ -1870,7 +1868,7 @@ The enemy most often tricked is yourself. Read them in their order, for the orde
 
 4. Folly that believes itself is no longer feigned. Wait; the count does not expire with the session.
 
-*In this book:* Chapter 3, the buyer's declined book.
+*In this book:* the idea, not the number, appears in Chapter 3, the buyer's declined book.
 
 ##### 28. Remove the Ladder When the Enemy Has Climbed · 上屋抽梯 (第28计)
 
@@ -1900,7 +1898,7 @@ The enemy most often tricked is yourself. Read them in their order, for the orde
 
 5. The question is never "did most win." It is whether the few paid for all the rest, after costs, in a sample large enough to trust.
 
-*In this book:* Chapter 16.
+*In this book:* the idea, not the number, appears in Chapter 16.
 
 ##### 30. Make the Host and the Guest Exchange Roles · 反客为主 (第30计)
 
@@ -2050,15 +2048,15 @@ And one line that both sides share:
 
 *出处与译文*
 
-**Sun Tzu.** The English quotations of *The Art of War* (《孙子兵法》) are from Lionel Giles, *Sun Tzu on the Art of War: The Oldest Military Treatise in the World* (London: Luzac, 1910), which is in the public domain. Where a verse adapts Giles to the trade, the adaptation is the author's and follows the general's line in the same verse. The chapters keep the general's thirteen titles and his order. Chinese quotations, such as 以迂为直，以患为利 in Chapter 7, follow the received text.
+**Sun Tzu.** The English quotations of *The Art of War* (《孙子兵法》) are from Lionel Giles, *Sun Tzu on the Art of War: The Oldest Military Treatise in the World* (London: Luzac, 1910), which is in the public domain. Where a verse adapts Giles to the trade, the adaptation is the author's and follows the general's line in the same verse. The chapters keep the general's thirteen titles and his order. Chinese quotations, such as 以迂为直，以患为利 in Chapter 7, follow the received text. One reading matters to Part V: 守则不足，攻则有余 (Chapters 4 and 15) is the received text, and Giles translates it, but the Han bamboo slips found at Yinqueshan (银雀山汉简) read the reverse, 守则有余，攻则不足. The argument of Part V rests on the received reading.
 
 **The Thirty-Six Stratagems.** 《三十六计》 is an anonymous collection of proverbs and their commentary, gathered in its present form late in the imperial era and first printed in the twentieth century. Its six sets and thirty-six names are standard. The English names of the stratagems, the one-line images and every reading for the buyer are the author's own. The stratagems are cited by number in the chapters (第1计 to 第36计) and stand whole in Appendix A. The fullest earlier reading is the author's *The Counted Trade* (first edition), which this book now absorbs.
 
 **The insurer.** The scene at Edward Lloyd's coffee house in 1688, and the practice of underwriting, reserving, reinsurance and the combined ratio, are general history and industry practice, read here against the defined-risk credit spread. The fullest earlier reading is the author's *The Options Underwriter* (first edition), which this book now absorbs. Hurricane Andrew (1992), the crash of 19 October 1987, the volatility shock of 5 February 2018 and the fall of February and March 2020 are matters of public record.
 
-**The second voice.** Jamie Mai's practice is described as he gave it in his interview in Jack D. Schwager, *Hedge Fund Market Wizards* (Wiley, 2012), and as Michael Lewis tells it in *The Big Short* (W. W. Norton, 2010). Nothing in this book is drawn from any other source on Mai, and nothing here says what he would do today. The pre-registered test of a mechanical copy of his entry condition, in Chapter 15, is the one first recorded in *The Counted Trade*; it failed, and it is reported because it failed.
+**The second voice.** Jamie Mai's practice is described as he gave it in his interview in Jack D. Schwager, *Hedge Fund Market Wizards* (Wiley, 2012), and as Michael Lewis tells it in *The Big Short* (W. W. Norton, 2010). Nothing in this book is drawn from any other source on Mai, and nothing here says what he would do today. The pre-registered test of a mechanical copy of his entry condition, in Chapter 15, is the one first recorded in *The Counted Trade*; it failed, and it is reported because it failed. Its rule and its result are set out in that book, Chapters 12 and 25, in its public repository (github.com/henryzhangpku/the-counted-trade), which is the record to check them against.
 
-**The roundabout path.** Mark Spitznagel, *The Dao of Capital: Austrian Investing in a Distorted World* (Wiley, 2013), builds on the *Umweg*, the roundabout path. Chapter 7 credits its oldest statement, 以迂为直, to Sun Tzu's chapter on manoeuvring. Spitznagel's *Safe Haven: Investing for Financial Storms* (Wiley, 2021) is cited in Chapter 17 for the idea that insurance is judged by its effect on the whole. No text from either book is quoted.
+**The roundabout path.** Mark Spitznagel, *The Dao of Capital: Austrian Investing in a Distorted World* (Wiley, 2013), builds on the *Umweg*, the roundabout path, a name he takes from the Austrian economists for an idea he traces himself to Laozi and to Chinese strategy. Chapter 7 reads one of its earliest statements, 以迂为直, in Sun Tzu's chapter on manoeuvring. Spitznagel's *Safe Haven: Investing for Financial Storms* (Wiley, 2021) is cited in Chapter 17 for the idea that insurance is judged by its effect on the whole. No text from either book is quoted.
 
 **Arithmetic.** Every number in this book that is not a date or a citation is arithmetic set out so that it can be checked on paper: the straddle approximation (about 0.8 × price × volatility × the square root of the time left in years), the annualising of daily moves by the square root of 252, the breakeven win rate (the debit divided by what the ticket pays when right), the losing-run probabilities, and the arithmetic of recovery after a loss. The research counts quoted in Chapters 5, 12, 15 and 16 are records of tests, most of which failed. None is a performance claim, a forecast or a signal.
 

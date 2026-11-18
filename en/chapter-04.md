@@ -78,7 +78,7 @@ The buyer has the general's invincibility for free: his worst day is the debit, 
 
 The firewood is the buyer's version of the limit, and the arithmetic is easy, which is why it is so often skipped. A 100 call bought and a 110 call sold for a debit of 3 has a maximum loss of 300 and a maximum gain of 700. If the risk budget is 1,000, three spreads cost 900 and a fourth would cost 1,200. The count is three. Rounding up to four does not make the risk 1,000. It makes the plan a fiction.
 
-Mai's "risk one to make ten" is often quoted as though the ten were the point. In Schwager's interview the one comes first, and it is small. His bets were expected to fail, most of them, and a book built that way has to survive a run of failures to collect the one that does not. Ten bets at a tenth of the book each, all lost, is the whole book. That is not convexity. It is ten chances to be finished before the thesis arrives.
+Mai's practice, risking a little to make a lot, is often read as though the lot were the point. The little comes first, and it is small. His bets were expected to fail, most of them, and a book built that way has to survive a run of failures to collect the one that does not. Ten bets at a tenth of the book each, all lost, is the whole book. That is not convexity. It is ten chances to be finished before the thesis arrives.
 
 So the order of operations is the same at both ends of the ticket. The seller fixes the size so that a maximum loss is boring; the buyer fixes it so that a run of total losses is boring. Only then does either of them look for a line, or a door.
 

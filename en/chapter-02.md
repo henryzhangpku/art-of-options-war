@@ -44,7 +44,7 @@
 
 ## The Buyer
 
-20. The buyer pays the rent. Let him know it before he signs: the daily decay, multiplied by the days he expects to wait, is the price of his patience.
+20. The buyer pays the rent. Let him know it before he signs: the daily decay, multiplied by the days he expects to wait, is the price of his patience, and more, because the decay quickens near the end.
 
 21. For the buyer, the long siege is the debit held after the catalyst has passed. The event came, the move did not, and what remains is an option paying rent on a reason that has already expired.
 

@@ -20,7 +20,7 @@
 
 8. The seller reads the trend by its structure, not by his hope. A higher low held is a market that has not changed its mind. A higher low broken is a market that has, whatever the last candle says.
 
-9. When the ATR trail flips, the trend has spoken. Sell puts beneath a market that ratchets up. Sell calls above a market that ratchets down. Sell neither while it is deciding.
+9. When the ATR trail flips, the trend has spoken, as this book reads trend. Sell puts beneath a market that ratchets up. Sell calls above a market that ratchets down. Sell neither while it is deciding.
 
 10. Dust rising in a high column is the sign of chariots; dust low and wide, of infantry. Volume surging at a level is the sign of a wall; volume dying into a move is the sign of a move that has run out of enemy.
 
@@ -44,7 +44,7 @@
 
 19. The buyer reads the same signs as the seller and acts on the opposite ones. A pivot broken is the seller's warning and the buyer's invitation.
 
-20. When the ATR trail flips, the buyer may follow it: calls behind a market that has turned up, puts behind one that has turned down. Neither while it is deciding; deciding is where rent is paid for nothing.
+20. When the ATR trail flips, the buyer may follow it, as a reading of structure and not a signal: calls behind a market that has turned up, puts behind one that has turned down. Neither while it is deciding; deciding is where rent is paid for nothing.
 
 21. Volume dying into a quiet range is the sign of a coiled market. That is the buyer's high ground: the move nobody is paying for yet.
 

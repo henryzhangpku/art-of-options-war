@@ -360,7 +360,7 @@ The enemy most often tricked is yourself. Read them in their order, for the orde
 
 4. The distant ally is the trade that shares no catalyst with the rest: another driver, another date, another mechanism. It is a different reason, not a different ticker.
 
-*In this book:* Chapter 5, where the insurer calls it accumulation.
+*In this book:* the idea, not the number, appears in Chapter 5, where the insurer calls it accumulation.
 
 ### 24. Borrow the Road to Conquer Guo · 假道伐虢 (第24计)
 
@@ -374,7 +374,7 @@ The enemy most often tricked is yourself. Read them in their order, for the orde
 
 4. Two calendars, two sets of filters, two tests, two journals. March each army on its own road and borrow nothing but the discipline.
 
-*In this book:* the seller's index spreads of Parts I to IV and the buyer's single-name attacks of Part V are two such roads.
+*In this book:* the idea, not the number: the seller's index spreads of Parts I to IV and the buyer's single-name attacks of Part V are two such roads.
 
 ## Set V: Stratagems for Gaining Ground 《并战计》
 
@@ -390,7 +390,7 @@ The enemy most often tricked is yourself. Read them in their order, for the orde
 
 4. When the beam is judgement, no filter cut from it will carry the same load. The test of Mai's quiet, in Chapter 15, is that beam removed.
 
-*In this book:* Chapter 15.
+*In this book:* the idea, not the number, appears in Chapter 15.
 
 ### 26. Point at the Mulberry, Curse the Locust · 指桑骂槐 (第26计)
 
@@ -404,7 +404,7 @@ The enemy most often tricked is yourself. Read them in their order, for the orde
 
 4. A label that claims less than the evidence is honest. A label that claims more moves real risk onto a beam nobody has tested.
 
-*In this book:* the rule of every chapter: no forecasts, no signals, no performance claims.
+*In this book:* the idea, not the number, is the rule of every chapter: no forecasts, no signals, no performance claims.
 
 ### 27. Feign Madness but Keep Your Balance · 假痴不癫 (第27计)
 
@@ -418,7 +418,7 @@ The enemy most often tricked is yourself. Read them in their order, for the orde
 
 4. Folly that believes itself is no longer feigned. Wait; the count does not expire with the session.
 
-*In this book:* Chapter 3, the buyer's declined book.
+*In this book:* the idea, not the number, appears in Chapter 3, the buyer's declined book.
 
 ### 28. Remove the Ladder When the Enemy Has Climbed · 上屋抽梯 (第28计)
 
@@ -448,7 +448,7 @@ The enemy most often tricked is yourself. Read them in their order, for the orde
 
 5. The question is never "did most win." It is whether the few paid for all the rest, after costs, in a sample large enough to trust.
 
-*In this book:* Chapter 16.
+*In this book:* the idea, not the number, appears in Chapter 16.
 
 ### 30. Make the Host and the Guest Exchange Roles · 反客为主 (第30计)
 

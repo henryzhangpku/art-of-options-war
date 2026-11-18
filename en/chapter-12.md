@@ -30,7 +30,7 @@
 
 13. Run the storm in advance. Ask: if the index gaps five percent overnight, what does the book owe in the morning? If it falls ten percent in a week? Write the answers while the sun is shining. If the paper storm closes the account, the size is wrong today, not on the day it comes.
 
-14. A stop is a plan for an ordinary day. In a catastrophe the market opens beyond it. Only the wing is guaranteed to be where you left it.
+14. A stop is a plan for an ordinary day. In a catastrophe the market opens beyond it. Only the wing is still where you left it.
 
 15. The worst storms come after the longest calm, because the calm is when everyone writes the most cover at the thinnest premium. Do not try to predict the catastrophe. Its date is unknowable. Its existence is certain.
 
