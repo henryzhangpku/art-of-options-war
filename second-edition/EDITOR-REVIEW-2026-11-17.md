@@ -281,3 +281,63 @@ Four things must change first:
 After that, the SHOULD items are a day's work: mostly trimming the repeated rules and stories, the straddle and insurance wording in Part V, and the two uses of "guaranteed".
 
 **Totals:** 45 findings: 6 must-fix, 23 should-fix, 16 notes. Five of the notes (7, 11, 18, 42, 43) confirm that something is right and needs no change.
+
+---
+
+## Fixed 2026-11-18
+
+Applied on Henry's approval ("approve, fix", then "finish the book"). All six MUST findings and all 23 SHOULD findings are fixed in both languages. Of the NOTEs, only 17 and 25 were applied, as asked. The other notes are left as they were. After every change, both `the-whole-book.md` files were re-spliced from the chapters. The structure check passes: every file, including both READMEs and both whole-book files, has the same number of non-empty lines and of numbered verses in `en/` and `zh/`.
+
+Commits: `fcf0e82` (MUST 2, 3, 4, 6), `336c1be` (MUST 5 and the Parts I–IV fixes), `fa0a90c` (Part V English), `8bfa4c5` (MUST 1, the Part V Chinese and the READMEs). *The Counted Trade*: `78385ba` (ch. 5).
+
+### MUST
+
+| # | Status | What was done |
+|---|---|---|
+| 1 | fixed | Chapters 14–18 in `zh/` are written again in Chinese, against the final English. The verses use the terse register of Parts I–IV, and the commentary follows Chinese word order. The ten suggested rewrites and the three after them are used, some lightly changed. The money is 权利金 or 所付之数, and 借方 appears only in 借方价差. The wing is 翼 or 保护腿, and the surviving spy is 生间, as in Parts I–IV. The `zh/README.md` banner is removed. The `README.md` paragraph now says the two editions were written separately and that the Chinese is written as Chinese, not machine-translated; "written by hand" is gone. **Henry has not read the new Chinese yet.** |
+| 2 | fixed | en ch. 10 v. 10: "it is not a calamity from natural causes but a fault of the general." |
+| 3 | fixed | Ch. 1 v. 3 keeps the received order in both languages. The commentary says the general put the Cause first and this book reads it last. |
+| 4 | fixed | zh ch. 15: 一赔十的单子，十一次里赢一次才打平。 |
+| 5 | fixed | Ch. 7 ¶2 and appendix C, both languages, now use the suggested text. Spitznagel takes the name from the Austrian economists and traces the idea himself to Laozi and Chinese strategy. 以迂为直 is "one of its clearest early statements", not the oldest, and the sentence 这份功劳应当记在将军名下 is gone. *That he makes the Laozi connection himself rests on this memo's recollection; check it against your copy.* |
+| 6 | fixed | Ch. 12 ¶6, both languages: the attribution is cut and the idea kept. *The Counted Trade* ch. 5 is corrected the same way, in en, zh and both whole-book files. The repository was unarchived for the push and archived again. CT ch. 6 has a second, milder Lewis line ("Lewis describes Mai buying the cheapest thing that expressed a view"); it fits the Cornwall story and was left. |
+
+### SHOULD
+
+| # | Status | What was done |
+|---|---|---|
+| 8 | fixed | Appendix C now points to the record: *The Counted Trade*, Chapters 12 and 25, in its public repository. Neither repository holds a separate dated pre-registration document. If one exists, link it there. |
+| 9 | fixed | Schwager's book could not be checked, so the safe path was taken. Ch. 4 commentary and ch. 8 commentary drop the quotation marks and "as Schwager records it", and use the paraphrase "risking a little to make a lot" (以小博大). Ch. 4 v. 25 and appendix A no. 19 keep "Risk one to make ten" as the book's own maxim, unquoted and unattributed. |
+| 10 | fixed | Ch. 15: "Jamie Mai, as Schwager and Lewis tell it, is one of the clearest modern examples of a buyer whose attacks fit these grounds" (zh 最清楚的现代例子之一). |
+| 12 | fixed | "which, in Lewis's account, the sellers priced as if they could not fail". The edge sentence reads "As this book and *The Counted Trade* both read him, his edge was…" instead of "As both books tell it", because the reading belongs to this book and CT, not to Schwager or Lewis. |
+| 13 | fixed | zh ch. 9 v. 1: 视生处高，战隆无登，此处山之军也。 |
+| 14 | fixed | zh ch. 7 v. 7: 砍仓要疾，入场要徐。 |
+| 19 | fixed | The six "In this book" lines for nos. 23–27 and 29 now say "the idea, not the number" (zh 不标计数). |
+| 20 | fixed | Ch. 15: "roughly the average move… the market is charging for" and "a straddle worth about 6.9" (zh 跨式约值6.9). |
+| 21 | fixed | Ch. 14: "shows up in the price of a straddle". The zh uses rewrite no. 4. |
+| 22 | fixed | Ch. 12 v. 14: "Only the wing is still where you left it." / 只有保护腿，还在你放下它的地方。 |
+| 23 | fixed | Ch. 17: "plus what the year's puts have cost, somewhere between 11 and 14… about an eighth to a sixth." The same in zh. |
+| 24 | fixed | Ch. 15: "not three in ten as at a debit of 3 (Chapter 8)". |
+| 28 | fixed | zh ch. 18 now quotes zh ch. 13 exactly: 没有哪一边是对的那一边。每一边都是一种可以活下来的犯错方式——只要算过。 |
+| 29 | fixed | zh prologue: 书中没有任何业绩之言。 |
+| 30 | fixed | zh ch. 15: 它们能做到的只是…… |
+| 31 | fixed | Ch. 7 v. 26 is cut (old v. 27 is now v. 26), the two sentences in the ch. 15 seller's paragraph are cut, and ch. 18 says "again". Appendix B's "said once, here" is left. It is about the seller's rule line as a whole, which does still appear once there. |
+| 32 | fixed | Cut from ch. 14 v. 14, the ch. 15 shield paragraph and ch. 17 v. 15. Kept once, at the end of ch. 17. |
+| 33 | fixed | Ch. 13 commentary now has one clause pointing back to ch. 3. Ch. 3 and ch. 15 keep the full telling. |
+| 34 | fixed | Ch. 8 now points back to ch. 4 instead of explaining it again. |
+| 35 | fixed | Ch. 14 ¶2, ch. 15 ¶4 and ch. 16 v. 4 and ¶1 now point back to Chapter 6 instead of restating it. |
+| 36 | fixed | The ch. 15 paragraph is cut to a pointer to the verses and Chapter 1, plus the breakeven arithmetic. The time-stop clause was dropped too, because it was the word-for-word repeat. |
+| 37 | fixed | The repeat is cut from ch. 18 v. 7. The ch. 18 commentary keeps "as Chapter 10 said". |
+| 44 | fixed | Ch. 9 v. 9: "as this book reads trend". V. 20: "as a reading of structure and not a signal". The same in zh. |
+
+### NOTE
+
+| # | Status | Why |
+|---|---|---|
+| 7, 11, 18, 42, 43 | no change needed | These confirm the text is right. |
+| 17 | applied | Appendix C, both languages: the Yinqueshan slips read 守则有余，攻则不足, and Part V rests on the received reading. |
+| 25 | applied, in part | Ch. 2 v. 20 adds "and more, because the decay quickens near the end". "Suppose" before the stylised rates was not added, per the brief. |
+| 15, 16, 26, 27, 38, 39, 40, 41, 45 | not applied | Your call, per the brief. |
+
+### For Henry to read himself
+
+All of Part V in Chinese: `zh/chapter-14.md` to `zh/chapter-18.md`. It is new text that no one but its writer has read. Read the verses first, against Parts I–IV. Then read the four places where the English changed underneath: ch. 15 (the straddle, the shape, the five sentences and Mai), ch. 16 vv. 4 and 19, ch. 17 ¶2, and ch. 18 v. 7 and the last paragraph.
