@@ -22,7 +22,7 @@
 
 9. These six are the principles connected with ground. The general who has attained a responsible post must be careful to study them.
 
-10. When troops flee, are insubordinate, collapse, are disorganised, or are routed, it must be due to natural causes in the general. So with the seller: when a spread is chased, held, doubled, or abandoned in fear, the cause is not the ground. It is the Commander, who did not know which ground he was on.
+10. When troops flee, are insubordinate, collapse, are disorganised, or are routed, it is not a calamity from natural causes but a fault of the general. So with the seller: when a spread is chased, held, doubled, or abandoned in fear, the cause is not the ground. It is the Commander, who did not know which ground he was on.
 
 11. The natural formation of the ground is the soldier's best ally; but a power of estimating the adversary, of controlling the forces of victory, and of shrewdly calculating difficulties, dangers and distances, constitutes the test of a great general.
 

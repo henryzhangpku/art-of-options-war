@@ -32,7 +32,7 @@ The first three chapters are the count. What the campaign will be judged on, wha
 
 2. Therefore, before the market opens, weigh the trade by five constants, and compare your side with the enemy's.
 
-3. These are: the Sky, the Ground, the Commander, the Method, and the Cause.
+3. These are: the Cause, the Sky, the Ground, the Commander and the Method.
 
 4. The Sky is time. It is the option's expiry, the hours that remain, the decay that runs in one direction only. The Sky favours the seller, and the seller must never fight it.
 
@@ -94,7 +94,7 @@ The old text begins with counting because the temple is the only place a battle 
 
 Of the five constants, only the Sky is reliably yours. Time decays in one direction, and a seller who does not fight it is paid every hour he is not wrong. The Ground can be chosen but not controlled. The Method can be written and then ignored. And the Commander is where every account dies: not from being wrong about direction, which is ordinary, but from refusing to be wrong at a small size.
 
-The Cause is placed last because it is the quietest. A trader who needs to be right will hold a broken spread to prove a point. A trader who is paid to hold a line simply moves the line, or leaves the field. This book follows both men, the one who is paid to hold the line and the one who pays to cross it, and in Part V it says which of them to be, and when.
+The general put the Cause first. This book reads it last, because it is the quietest. A trader who needs to be right will hold a broken spread to prove a point. A trader who is paid to hold a line simply moves the line, or leaves the field. This book follows both men, the one who is paid to hold the line and the one who pays to cross it, and in Part V it says which of them to be, and when.
 
 The insurer's reading of the same count is the policy read aloud: *I am paid one to cover four; the limit is the width; the term ends Friday; I can pay the full claim.* Each of the five terms is a piece of the spread. The credit is the premium. The short strike is the attachment point, and the distance from the price to it is the deductible the market must cover before the seller owes anything. The long wing is the limit. The expiry is the term. And the size is the one term no chain prints for you, which is why so many of the chapters that follow come back to it. An insurer who writes cover he cannot honour is not taking more risk than his rivals. He is in a different business, one that ends the first time the storm arrives.
 
@@ -776,7 +776,7 @@ For the seller: the regimes to refuse, the stages of a trade from first entry to
 
 9. These six are the principles connected with ground. The general who has attained a responsible post must be careful to study them.
 
-10. When troops flee, are insubordinate, collapse, are disorganised, or are routed, it must be due to natural causes in the general. So with the seller: when a spread is chased, held, doubled, or abandoned in fear, the cause is not the ground. It is the Commander, who did not know which ground he was on.
+10. When troops flee, are insubordinate, collapse, are disorganised, or are routed, it is not a calamity from natural causes but a fault of the general. So with the seller: when a spread is chased, held, doubled, or abandoned in fear, the cause is not the ground. It is the Commander, who did not know which ground he was on.
 
 11. The natural formation of the ground is the soldier's best ally; but a power of estimating the adversary, of controlling the forces of victory, and of shrewdly calculating difficulties, dangers and distances, constitutes the test of a great general.
 
@@ -970,7 +970,7 @@ The last verses are the arithmetic of ruin, stated by a general who had seen kin
 
 For the buyer, fire is the reason for the trade. A long option is a bet that volatility will arrive, and its value is a claim on the fire. But the claim must be bought before the smoke, at a price set by people who do not expect a fire. A buyer who pays during the spike buys a claim the market has already marked up, and the crush that follows the event, volatility falling as soon as the news is known, can take his profit even when the move went his way.
 
-The two stratagems divide the buyer's fires into the one he may loot and the one he should watch. The looter's rule is a measurement that fits on the back of a card: the straddle divided by the price is the move the chain expects, and the stock's own history after the same kind of event is the move it has usually made. A wide gap either way is information; a narrow one is a fair price, and a fair price is not a trade, however strong the opinion. The second fire, the business sold below what it can be worth, is Mai's territory as Lewis describes it in *The Big Short*: no volatility screen finds it; it is read in the balance sheet. The watcher's rule is the default for everything else. In one count across thirty-eight rate decisions, the median move after the announcement was smaller than the move the day's straddle had priced, and the direction was close to a coin flip. The median is not the mean, and a few decisions produced moves far larger than their price, so the finding says that most such events are priced, not that all are. What survives is procedural. Watching costs nothing and keeps the right to act. Crossing the river costs the straddle and then the decay, and it must be justified by a mispricing written down before the event, with the number that would show it wrong.
+The two stratagems divide the buyer's fires into the one he may loot and the one he should watch. The looter's rule is a measurement that fits on the back of a card: the straddle divided by the price is the move the chain expects, and the stock's own history after the same kind of event is the move it has usually made. A wide gap either way is information; a narrow one is a fair price, and a fair price is not a trade, however strong the opinion. The second fire, the business sold below what it can be worth, is not a volatility trade: no screen on the chain finds it; it is read in the balance sheet. The watcher's rule is the default for everything else. In one count across thirty-eight rate decisions, the median move after the announcement was smaller than the move the day's straddle had priced, and the direction was close to a coin flip. The median is not the mean, and a few decisions produced moves far larger than their price, so the finding says that most such events are priced, not that all are. What survives is procedural. Watching costs nothing and keeps the right to act. Crossing the river costs the straddle and then the decay, and it must be justified by a mispricing written down before the event, with the number that would show it wrong.
 
 So the same two rules hold for the buyer. Size so that losing the whole debit is boring, and give the day a ceiling on how many debits it can spend. The fire that ruins a buyer is not one catastrophe. It is the slow burn of paying, again and again, for fires that do not come.
 

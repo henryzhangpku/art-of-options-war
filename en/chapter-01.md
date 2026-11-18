@@ -8,7 +8,7 @@
 
 2. Therefore, before the market opens, weigh the trade by five constants, and compare your side with the enemy's.
 
-3. These are: the Sky, the Ground, the Commander, the Method, and the Cause.
+3. These are: the Cause, the Sky, the Ground, the Commander and the Method.
 
 4. The Sky is time. It is the option's expiry, the hours that remain, the decay that runs in one direction only. The Sky favours the seller, and the seller must never fight it.
 
@@ -70,7 +70,7 @@ The old text begins with counting because the temple is the only place a battle 
 
 Of the five constants, only the Sky is reliably yours. Time decays in one direction, and a seller who does not fight it is paid every hour he is not wrong. The Ground can be chosen but not controlled. The Method can be written and then ignored. And the Commander is where every account dies: not from being wrong about direction, which is ordinary, but from refusing to be wrong at a small size.
 
-The Cause is placed last because it is the quietest. A trader who needs to be right will hold a broken spread to prove a point. A trader who is paid to hold a line simply moves the line, or leaves the field. This book follows both men, the one who is paid to hold the line and the one who pays to cross it, and in Part V it says which of them to be, and when.
+The general put the Cause first. This book reads it last, because it is the quietest. A trader who needs to be right will hold a broken spread to prove a point. A trader who is paid to hold a line simply moves the line, or leaves the field. This book follows both men, the one who is paid to hold the line and the one who pays to cross it, and in Part V it says which of them to be, and when.
 
 The insurer's reading of the same count is the policy read aloud: *I am paid one to cover four; the limit is the width; the term ends Friday; I can pay the full claim.* Each of the five terms is a piece of the spread. The credit is the premium. The short strike is the attachment point, and the distance from the price to it is the deductible the market must cover before the seller owes anything. The long wing is the limit. The expiry is the term. And the size is the one term no chain prints for you, which is why so many of the chapters that follow come back to it. An insurer who writes cover he cannot honour is not taking more risk than his rivals. He is in a different business, one that ends the first time the storm arrives.
 
